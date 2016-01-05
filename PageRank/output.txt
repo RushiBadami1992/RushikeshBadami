@@ -1,0 +1,192 @@
+Page rank of small graph for one Iteration:
+Page:	A Page Rank:	0.24930555555555556
+Page:	B Page Rank:	0.11944444444444445
+Page:	C Page Rank:	0.14305555555555555
+Page:	D Page Rank:	0.13125
+Page:	E Page Rank:	0.2138888888888889
+Page:	F Page Rank:	0.14305555555555555
+
+Page rank of small graph for ten Iteration:
+Page:	A Page Rank:	0.25203637602817186
+Page:	B Page Rank:	0.13930650918251083
+Page:	C Page Rank:	0.15129376593475075
+Page:	D Page Rank:	0.11896297277689881
+Page:	E Page Rank:	0.18710661014291716
+Page:	F Page Rank:	0.15129376593475075
+
+Page rank of small graph for hundred Iteration:
+Page:	A Page Rank:	0.2521271053751956
+Page:	B Page Rank:	0.1393061853185386
+Page:	C Page Rank:	0.1513064898667053
+Page:	D Page Rank:	0.11890782257353921
+Page:	E Page Rank:	0.18704590699931614
+Page:	F Page Rank:	0.1513064898667053
+
+
+Perplexity Values and iteration:
+Perplexity:	80012.16015420535	Iteration:	1
+Perplexity:	86873.85751802546	Iteration:	2
+Perplexity:	72745.8322851183	Iteration:	3
+Perplexity:	75797.26897891371	Iteration:	4
+Perplexity:	69517.15369996683	Iteration:	5
+Perplexity:	71873.66527501497	Iteration:	6
+Perplexity:	68400.16080007331	Iteration:	7
+Perplexity:	70038.42468201184	Iteration:	8
+Perplexity:	68007.49027902189	Iteration:	9
+Perplexity:	69122.73181304021	Iteration:	10
+Perplexity:	67830.86087577113	Iteration:	11
+Perplexity:	68640.19743589486	Iteration:	12
+Perplexity:	67760.80216856906	Iteration:	13
+Perplexity:	68338.40923426286	Iteration:	14
+Perplexity:	67751.95228734137	Iteration:	15
+Perplexity:	68150.14886924601	Iteration:	16
+Perplexity:	67751.25291831401	Iteration:	17
+Perplexity:	68036.28052263251	Iteration:	18
+Perplexity:	67756.98468398454	Iteration:	19
+Perplexity:	67960.35448317054	Iteration:	20
+Perplexity:	67767.21407851347	Iteration:	21
+Perplexity:	67909.87287659023	Iteration:	22
+Perplexity:	67775.75486680726	Iteration:	23
+Perplexity:	67877.2373314033	Iteration:	24
+Perplexity:	67782.67249044204	Iteration:	25
+Perplexity:	67855.12554384398	Iteration:	26
+Perplexity:	67788.71278196204	Iteration:	27
+Perplexity:	67839.99284974595	Iteration:	28
+Perplexity:	67793.38465737135	Iteration:	29
+Perplexity:	67829.85091863327	Iteration:	30
+Perplexity:	67796.87177349749	Iteration:	31
+Perplexity:	67822.91431750344	Iteration:	32
+Perplexity:	67799.58222760177	Iteration:	33
+Perplexity:	67818.09692942418	Iteration:	34
+Perplexity:	67801.61111883036	Iteration:	35
+Perplexity:	67814.7991006918	Iteration:	36
+Perplexity:	67803.09650800224	Iteration:	37
+Perplexity:	67812.51366832892	Iteration:	38
+Perplexity:	67804.20438419147	Iteration:	39
+Perplexity:	67810.91870138404	Iteration:	40
+Perplexity:	67805.01829058342	Iteration:	41
+Perplexity:	67809.8087648412	Iteration:	42
+Perplexity:	67805.61160696548	Iteration:	43
+Perplexity:	67809.03363760455	Iteration:	44
+Perplexity:	67806.04476550555	Iteration:	45
+Perplexity:	67808.4887410736	Iteration:	46
+Perplexity:	67806.36052774033	Iteration:	47
+Perplexity:	67808.10677007145	Iteration:	48
+Perplexity:	67806.58958950256	Iteration:	49
+Perplexity:	67807.83802227196	Iteration:	50
+Perplexity:	67806.75603603695	Iteration:	51
+Perplexity:	67807.64866756291	Iteration:	52
+Perplexity:	67806.8764662261	Iteration:	53
+Perplexity:	67807.51505674468	Iteration:	54
+Perplexity:	67806.9637083967	Iteration:	55
+
+Top 50 pagerank by inlink of bigger graph:
+Page:	WT21-B37-76 InLinkCount:	2568.0
+Page:	WT21-B37-75 InLinkCount:	1704.0
+Page:	WT01-B18-225 InLinkCount:	1137.0
+Page:	WT08-B19-222 InLinkCount:	1041.0
+Page:	WT08-B18-400 InLinkCount:	990.0
+Page:	WT21-B40-447 InLinkCount:	779.0
+Page:	WT27-B34-57 InLinkCount:	630.0
+Page:	WT27-B32-30 InLinkCount:	628.0
+Page:	WT25-B15-307 InLinkCount:	605.0
+Page:	WT27-B28-203 InLinkCount:	589.0
+Page:	WT18-B40-82 InLinkCount:	576.0
+Page:	WT21-B37-71 InLinkCount:	560.0
+Page:	WT13-B15-160 InLinkCount:	484.0
+Page:	WT23-B30-88 InLinkCount:	477.0
+Page:	WT27-B28-177 InLinkCount:	461.0
+Page:	WT13-B06-284 InLinkCount:	454.0
+Page:	WT13-B06-273 InLinkCount:	452.0
+Page:	WT13-B39-295 InLinkCount:	443.0
+Page:	WT14-B36-337 InLinkCount:	417.0
+Page:	WT10-B33-300 InLinkCount:	406.0
+Page:	WT23-B23-51 InLinkCount:	400.0
+Page:	WT23-B27-29 InLinkCount:	388.0
+Page:	WT23-B30-105 InLinkCount:	379.0
+Page:	WT14-B36-323 InLinkCount:	368.0
+Page:	WT14-B36-335 InLinkCount:	368.0
+Page:	WT14-B36-336 InLinkCount:	368.0
+Page:	WT14-B36-334 InLinkCount:	368.0
+Page:	WT23-B30-89 InLinkCount:	367.0
+Page:	WT23-B19-156 InLinkCount:	364.0
+Page:	WT12-B40-248 InLinkCount:	357.0
+Page:	WT17-B34-504 InLinkCount:	356.0
+Page:	WT17-B34-503 InLinkCount:	356.0
+Page:	WT17-B34-506 InLinkCount:	356.0
+Page:	WT17-B34-505 InLinkCount:	356.0
+Page:	WT17-B34-500 InLinkCount:	356.0
+Page:	WT17-B34-502 InLinkCount:	356.0
+Page:	WT17-B34-501 InLinkCount:	356.0
+Page:	WT17-B34-508 InLinkCount:	356.0
+Page:	WT17-B34-507 InLinkCount:	356.0
+Page:	WT17-B34-509 InLinkCount:	356.0
+Page:	WT17-B34-498 InLinkCount:	356.0
+Page:	WT17-B34-499 InLinkCount:	356.0
+Page:	WT12-B40-235 InLinkCount:	355.0
+Page:	WT12-B40-241 InLinkCount:	342.0
+Page:	WT12-B40-254 InLinkCount:	334.0
+Page:	WT04-B40-202 InLinkCount:	322.0
+Page:	WT24-B26-2 InLinkCount:	320.0
+Page:	WT04-B40-238 InLinkCount:	311.0
+Page:	WT04-B30-256 InLinkCount:	301.0
+Page:	WT04-B27-720 InLinkCount:	291.0
+Page:	WT24-B26-10 InLinkCount:	291.0
+Page:	WT13-B16-437 InLinkCount:	291.0
+
+Top 50 PageRank of bigger graph:
+Page:	WT21-B37-76 Page Rank:	0.002694474415548887
+Page:	WT21-B37-75 Page Rank:	0.0015331790999983908
+Page:	WT25-B39-116 Page Rank:	0.0014685014163258502
+Page:	WT23-B21-53 Page Rank:	0.0013735249384257498
+Page:	WT24-B26-10 Page Rank:	0.0012761567441301966
+Page:	WT24-B40-171 Page Rank:	0.0012452932176087912
+Page:	WT23-B39-340 Page Rank:	0.0012429131583240444
+Page:	WT23-B37-134 Page Rank:	0.0012054214112259798
+Page:	WT08-B18-400 Page Rank:	0.0011447772878379406
+Page:	WT13-B06-284 Page Rank:	0.0011365580053119783
+Page:	WT13-B06-273 Page Rank:	0.001054924572237206
+Page:	WT01-B18-225 Page Rank:	9.553819646804315E-4
+Page:	WT04-B27-720 Page Rank:	9.409643880874252E-4
+Page:	WT24-B26-46 Page Rank:	8.622382200878644E-4
+Page:	WT23-B19-156 Page Rank:	8.250707097264814E-4
+Page:	WT04-B30-12 Page Rank:	8.166232564417771E-4
+Page:	WT25-B15-307 Page Rank:	7.972235352502718E-4
+Page:	WT07-B18-256 Page Rank:	7.750374173618507E-4
+Page:	WT24-B40-167 Page Rank:	7.076287336773992E-4
+Page:	WT14-B03-220 Page Rank:	6.988859665464197E-4
+Page:	WT18-B31-240 Page Rank:	6.942257611768211E-4
+Page:	WT14-B03-227 Page Rank:	6.853161902725104E-4
+Page:	WT04-B40-202 Page Rank:	6.846808587291429E-4
+Page:	WT08-B19-222 Page Rank:	6.495325679505434E-4
+Page:	WT23-B20-363 Page Rank:	6.396360122161446E-4
+Page:	WT27-B28-203 Page Rank:	6.270797188364867E-4
+Page:	WT13-B39-295 Page Rank:	6.215375109129449E-4
+Page:	WT13-B15-160 Page Rank:	6.198585719576344E-4
+Page:	WT12-B30-56 Page Rank:	6.024553556204005E-4
+Page:	WT10-B02-288 Page Rank:	5.84449403785491E-4
+Page:	WT14-B36-337 Page Rank:	5.617073225026726E-4
+Page:	WT21-B40-37 Page Rank:	5.471879888092918E-4
+Page:	WT21-B35-155 Page Rank:	5.45696979496517E-4
+Page:	WT23-B01-40 Page Rank:	5.40852129280064E-4
+Page:	WT08-B08-60 Page Rank:	5.361223089507857E-4
+Page:	WT22-B38-403 Page Rank:	5.335787862506813E-4
+Page:	WT13-B39-321 Page Rank:	5.328954548184773E-4
+Page:	WT04-B22-268 Page Rank:	5.328641182354183E-4
+Page:	WT14-B02-400 Page Rank:	5.328037061426276E-4
+Page:	WT18-B14-66 Page Rank:	5.295595740149687E-4
+Page:	WT06-B14-69 Page Rank:	5.191619761151762E-4
+Page:	WT23-B38-120 Page Rank:	5.186941409833829E-4
+Page:	WT06-B35-151 Page Rank:	5.169281255289448E-4
+Page:	WT10-B33-300 Page Rank:	5.167739665966659E-4
+Page:	WT14-B36-323 Page Rank:	5.158618622725229E-4
+Page:	WT14-B36-335 Page Rank:	5.158618622725229E-4
+Page:	WT14-B36-336 Page Rank:	5.158618622725229E-4
+Page:	WT14-B36-334 Page Rank:	5.158618622725229E-4
+Page:	WT06-B35-161 Page Rank:	5.150221641759487E-4
+Page:	WT27-B20-494 Page Rank:	5.144808704517514E-4
+Page:	WT23-B38-87 Page Rank:	5.138104549448017E-4
+Page:	WT27-B34-57 Page Rank:	5.064138850377985E-4
+The proportion of pages with no in-links (sources):	0.07806932120493333
+The proportion of pages with no out-links (sinks):	0.3600165387272797
+The proportion of pages whose PageRank is less than their initial, uniform values: 0.7851434353765553
