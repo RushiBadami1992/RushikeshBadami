@@ -1,0 +1,20 @@
+TA Name:- Rama
+Helper Name:- Ankur
+
+Design Grade:- AB
+Correctness Score:- 14
+
+Presentation Grades:- 
+Tarun - A
+- Could answer questions asked about design decisions
+
+Rishikesh - A
+- Correctly answered - Use a filter within a map to ease the deletion of nodes
+
+Notes:-
+
+- world should indicate list of trees and not list of nodes
+- node-selected? needs to have a more specific implementation
+- Template for node missing function for list of nodes
+- find-max-x should indicate that the input is a non-empty list before during a first on the list
+- Could have filtered nodes easily from the given list instead of reconstructing the entire list bottom up on deletion

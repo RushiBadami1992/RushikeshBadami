@@ -1,0 +1,15 @@
+CCIS - rbadami
+
+D - B
+P - AB
+C - 15/15
+
+1) No definition for Classname
+2) Follow course conventions -> camel case - no spaces
+3) Enrollments-to-rosters : generic return statement : should be more specific
+4) add-to-roster -> missing parameter in contract
+5) Minor indentation issues
+6) Wrong name in contract roster=?
+7) roster-set=? could have passed a predicate function to generalize, instead of using two functions
+8) Tests fail if the order of students are changed
+9) Q2 -> could not answer
