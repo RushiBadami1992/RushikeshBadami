@@ -1,0 +1,707 @@
+query_id				doc_id				rank				BM25_score				system_name
+1	Q1	portabl oper system 	3127	14.40476558610547	Rushi_PC
+2	Q1	portabl oper system 	2246	10.43003385150113	Rushi_PC
+3	Q1	portabl oper system 	1930	8.589933060437984	Rushi_PC
+4	Q1	portabl oper system 	3196	8.381982796821983	Rushi_PC
+5	Q1	portabl oper system 	3068	5.508354856092458	Rushi_PC
+6	Q1	portabl oper system 	2593	5.460499308417991	Rushi_PC
+7	Q1	portabl oper system 	2740	5.343020348527187	Rushi_PC
+8	Q1	portabl oper system 	2319	5.3366264528653105	Rushi_PC
+9	Q1	portabl oper system 	2379	5.189560999678649	Rushi_PC
+10	Q1	portabl oper system 	1680	5.138557911555516	Rushi_PC
+11	Q1	portabl oper system 	2629	5.058379875877375	Rushi_PC
+12	Q1	portabl oper system 	1591	5.054557086251675	Rushi_PC
+13	Q1	portabl oper system 	1462	5.008024632226972	Rushi_PC
+14	Q1	portabl oper system 	1461	4.971087349183238	Rushi_PC
+15	Q1	portabl oper system 	2632	4.9337722114527285	Rushi_PC
+16	Q1	portabl oper system 	2597	4.869002536357964	Rushi_PC
+17	Q1	portabl oper system 	2735	4.8336900240928555	Rushi_PC
+18	Q1	portabl oper system 	2482	4.754621193124574	Rushi_PC
+19	Q1	portabl oper system 	1236	4.749482962486368	Rushi_PC
+20	Q1	portabl oper system 	2796	4.715008893588061	Rushi_PC
+21	Q1	portabl oper system 	2424	4.714153921812834	Rushi_PC
+22	Q1	portabl oper system 	1033	4.683888046705716	Rushi_PC
+23	Q1	portabl oper system 	1755	4.63541333072643	Rushi_PC
+24	Q1	portabl oper system 	1750	4.562782307764872	Rushi_PC
+25	Q1	portabl oper system 	1472	4.557620222518619	Rushi_PC
+26	Q1	portabl oper system 	2357	4.555950213978884	Rushi_PC
+27	Q1	portabl oper system 	2541	4.55374334539259	Rushi_PC
+28	Q1	portabl oper system 	2868	4.522006012028936	Rushi_PC
+29	Q1	portabl oper system 	2317	4.482973819036097	Rushi_PC
+30	Q1	portabl oper system 	2111	4.467231355530862	Rushi_PC
+31	Q1	portabl oper system 	2920	4.445587652206751	Rushi_PC
+32	Q1	portabl oper system 	2080	4.442129012839603	Rushi_PC
+33	Q1	portabl oper system 	2867	4.433353680862928	Rushi_PC
+34	Q1	portabl oper system 	1334	4.4257187387556085	Rushi_PC
+35	Q1	portabl oper system 	1534	4.3925771004576015	Rushi_PC
+36	Q1	portabl oper system 	1247	4.373088487921128	Rushi_PC
+37	Q1	portabl oper system 	2840	4.369174440639496	Rushi_PC
+38	Q1	portabl oper system 	1728	4.358606661313431	Rushi_PC
+39	Q1	portabl oper system 	3025	4.346940775169382	Rushi_PC
+40	Q1	portabl oper system 	2378	4.3027688795830645	Rushi_PC
+41	Q1	portabl oper system 	2064	4.284737508178781	Rushi_PC
+42	Q1	portabl oper system 	1519	4.27120433085334	Rushi_PC
+43	Q1	portabl oper system 	2153	4.260618183906038	Rushi_PC
+44	Q1	portabl oper system 	2798	4.207300948753132	Rushi_PC
+45	Q1	portabl oper system 	1657	4.203269377756126	Rushi_PC
+46	Q1	portabl oper system 	2126	4.196266248851002	Rushi_PC
+47	Q1	portabl oper system 	2372	4.1881807103082345	Rushi_PC
+48	Q1	portabl oper system 	1168	4.1483156351239225	Rushi_PC
+49	Q1	portabl oper system 	1766	4.142685017973253	Rushi_PC
+50	Q1	portabl oper system 	2399	4.13380336277134	Rushi_PC
+51	Q1	portabl oper system 	1752	4.130664841537127	Rushi_PC
+52	Q1	portabl oper system 	2320	4.128089100777457	Rushi_PC
+53	Q1	portabl oper system 	3089	4.0960568938809	Rushi_PC
+54	Q1	portabl oper system 	585	4.093307232647463	Rushi_PC
+55	Q1	portabl oper system 	972	4.093307232647463	Rushi_PC
+56	Q1	portabl oper system 	1912	4.0917475942035555	Rushi_PC
+57	Q1	portabl oper system 	2069	4.083882754490783	Rushi_PC
+58	Q1	portabl oper system 	322	4.077979530801342	Rushi_PC
+59	Q1	portabl oper system 	2092	4.047563328570025	Rushi_PC
+60	Q1	portabl oper system 	3174	4.023247564055803	Rushi_PC
+61	Q1	portabl oper system 	1324	4.021641177847881	Rushi_PC
+62	Q1	portabl oper system 	1902	3.9941177797320595	Rushi_PC
+63	Q1	portabl oper system 	1853	3.9499063516569435	Rushi_PC
+64	Q1	portabl oper system 	1264	3.9480441597292684	Rushi_PC
+65	Q1	portabl oper system 	1747	3.9440659931557125	Rushi_PC
+66	Q1	portabl oper system 	2218	3.9241970387190244	Rushi_PC
+67	Q1	portabl oper system 	1938	3.9209580889887565	Rushi_PC
+68	Q1	portabl oper system 	2777	3.9186640487216846	Rushi_PC
+69	Q1	portabl oper system 	1071	3.9071151472404013	Rushi_PC
+70	Q1	portabl oper system 	1163	3.882899718588713	Rushi_PC
+71	Q1	portabl oper system 	1923	3.882899718588713	Rushi_PC
+72	Q1	portabl oper system 	1749	3.878093502642109	Rushi_PC
+73	Q1	portabl oper system 	3137	3.875409246589966	Rushi_PC
+74	Q1	portabl oper system 	3087	3.836409137323619	Rushi_PC
+75	Q1	portabl oper system 	1464	3.8138232037223525	Rushi_PC
+76	Q1	portabl oper system 	1951	3.811538878553905	Rushi_PC
+77	Q1	portabl oper system 	2950	3.8052903220852734	Rushi_PC
+78	Q1	portabl oper system 	1533	3.8034234606741704	Rushi_PC
+79	Q1	portabl oper system 	252	3.796289140923755	Rushi_PC
+80	Q1	portabl oper system 	1108	3.795925214954096	Rushi_PC
+81	Q1	portabl oper system 	202	3.789123430711286	Rushi_PC
+82	Q1	portabl oper system 	1751	3.771957809035694	Rushi_PC
+83	Q1	portabl oper system 	2219	3.764803699034754	Rushi_PC
+84	Q1	portabl oper system 	2536	3.7615777534350805	Rushi_PC
+85	Q1	portabl oper system 	1034	3.74695328474057	Rushi_PC
+86	Q1	portabl oper system 	2151	3.7456821856402476	Rushi_PC
+87	Q1	portabl oper system 	1924	3.743264032704412	Rushi_PC
+88	Q1	portabl oper system 	2618	3.7238842687744094	Rushi_PC
+89	Q1	portabl oper system 	2681	3.72114729986483	Rushi_PC
+90	Q1	portabl oper system 	1226	3.6968531779329608	Rushi_PC
+91	Q1	portabl oper system 	3023	3.6848478767107715	Rushi_PC
+92	Q1	portabl oper system 	2624	3.673805909373442	Rushi_PC
+93	Q1	portabl oper system 	2741	3.673805909373442	Rushi_PC
+94	Q1	portabl oper system 	2065	3.6591067385261526	Rushi_PC
+95	Q1	portabl oper system 	2105	3.641657916353507	Rushi_PC
+96	Q1	portabl oper system 	2358	3.6319776657327014	Rushi_PC
+97	Q1	portabl oper system 	1960	3.6266303566156055	Rushi_PC
+98	Q1	portabl oper system 	1652	3.62294370302158	Rushi_PC
+99	Q1	portabl oper system 	2621	3.595499699462545	Rushi_PC
+100	Q1	portabl oper system 	2582	3.5837309785746614	Rushi_PC
+query_id				doc_id				rank				BM25_score				system_name
+1	Q2	code optim for space effici 	2530	12.210559012735867	Rushi_PC
+2	Q2	code optim for space effici 	2748	11.935877785524934	Rushi_PC
+3	Q2	code optim for space effici 	2491	11.728198156102664	Rushi_PC
+4	Q2	code optim for space effici 	1947	11.01930200291385	Rushi_PC
+5	Q2	code optim for space effici 	2559	10.097618906188483	Rushi_PC
+6	Q2	code optim for space effici 	2897	9.962952988699424	Rushi_PC
+7	Q2	code optim for space effici 	1795	9.700481325500517	Rushi_PC
+8	Q2	code optim for space effici 	2495	9.634504699014345	Rushi_PC
+9	Q2	code optim for space effici 	2033	9.157707265986847	Rushi_PC
+10	Q2	code optim for space effici 	2856	8.677537871648642	Rushi_PC
+11	Q2	code optim for space effici 	2863	8.514163750885468	Rushi_PC
+12	Q2	code optim for space effici 	2680	8.45038803951996	Rushi_PC
+13	Q2	code optim for space effici 	1886	8.185110004741368	Rushi_PC
+14	Q2	code optim for space effici 	1807	8.139703590222423	Rushi_PC
+15	Q2	code optim for space effici 	2716	8.0375477702624	Rushi_PC
+16	Q2	code optim for space effici 	3080	8.020445908098628	Rushi_PC
+17	Q2	code optim for space effici 	2701	7.964293112095154	Rushi_PC
+18	Q2	code optim for space effici 	3005	7.913631252582458	Rushi_PC
+19	Q2	code optim for space effici 	2586	7.798817522438143	Rushi_PC
+20	Q2	code optim for space effici 	2537	7.74715882958481	Rushi_PC
+21	Q2	code optim for space effici 	2801	7.74465474394273	Rushi_PC
+22	Q2	code optim for space effici 	3129	7.728488461081737	Rushi_PC
+23	Q2	code optim for space effici 	3113	7.654359179735167	Rushi_PC
+24	Q2	code optim for space effici 	3033	7.564443749221637	Rushi_PC
+25	Q2	code optim for space effici 	1901	7.499297432513806	Rushi_PC
+26	Q2	code optim for space effici 	2834	7.473671835775222	Rushi_PC
+27	Q2	code optim for space effici 	1223	7.437298697224049	Rushi_PC
+28	Q2	code optim for space effici 	2944	7.324927160981361	Rushi_PC
+29	Q2	code optim for space effici 	2598	7.2893720786161476	Rushi_PC
+30	Q2	code optim for space effici 	405	7.236359422388219	Rushi_PC
+31	Q2	code optim for space effici 	2648	7.195413135614097	Rushi_PC
+32	Q2	code optim for space effici 	3099	7.165324696110797	Rushi_PC
+33	Q2	code optim for space effici 	2929	7.131035343074324	Rushi_PC
+34	Q2	code optim for space effici 	2904	6.793028344835245	Rushi_PC
+35	Q2	code optim for space effici 	1973	6.767716616165025	Rushi_PC
+36	Q2	code optim for space effici 	3054	6.756585226672906	Rushi_PC
+37	Q2	code optim for space effici 	3171	6.667410212456523	Rushi_PC
+38	Q2	code optim for space effici 	2816	6.619172454424042	Rushi_PC
+39	Q2	code optim for space effici 	3106	6.612924627968258	Rushi_PC
+40	Q2	code optim for space effici 	2819	6.5553494665797825	Rushi_PC
+41	Q2	code optim for space effici 	1195	6.506615219189474	Rushi_PC
+42	Q2	code optim for space effici 	2885	6.392387880017633	Rushi_PC
+43	Q2	code optim for space effici 	3103	6.34461334787566	Rushi_PC
+44	Q2	code optim for space effici 	1542	6.320098801003793	Rushi_PC
+45	Q2	code optim for space effici 	2253	6.218643270273963	Rushi_PC
+46	Q2	code optim for space effici 	2623	6.173530983924731	Rushi_PC
+47	Q2	code optim for space effici 	2490	6.074379397567868	Rushi_PC
+48	Q2	code optim for space effici 	2855	6.024803045182076	Rushi_PC
+49	Q2	code optim for space effici 	124	5.896806087292264	Rushi_PC
+50	Q2	code optim for space effici 	1235	5.891655176446333	Rushi_PC
+51	Q2	code optim for space effici 	940	5.823173309631376	Rushi_PC
+52	Q2	code optim for space effici 	1552	5.797424354972836	Rushi_PC
+53	Q2	code optim for space effici 	1694	5.777526001960572	Rushi_PC
+54	Q2	code optim for space effici 	3057	5.673626001082209	Rushi_PC
+55	Q2	code optim for space effici 	3053	5.665801518454094	Rushi_PC
+56	Q2	code optim for space effici 	2220	5.643082272643527	Rushi_PC
+57	Q2	code optim for space effici 	867	5.6136083575614	Rushi_PC
+58	Q2	code optim for space effici 	2711	5.596512751862592	Rushi_PC
+59	Q2	code optim for space effici 	2858	5.581122139677371	Rushi_PC
+60	Q2	code optim for space effici 	2078	5.571662336630423	Rushi_PC
+61	Q2	code optim for space effici 	2745	5.551212479817302	Rushi_PC
+62	Q2	code optim for space effici 	2464	5.528542528770179	Rushi_PC
+63	Q2	code optim for space effici 	2423	5.525441325189894	Rushi_PC
+64	Q2	code optim for space effici 	1564	5.467233324842973	Rushi_PC
+65	Q2	code optim for space effici 	3072	5.3552234476930245	Rushi_PC
+66	Q2	code optim for space effici 	2787	5.353861343718237	Rushi_PC
+67	Q2	code optim for space effici 	2389	5.320216243342223	Rushi_PC
+68	Q2	code optim for space effici 	1655	5.294160962871722	Rushi_PC
+69	Q2	code optim for space effici 	3074	5.287843784411292	Rushi_PC
+70	Q2	code optim for space effici 	1066	5.270541564603547	Rushi_PC
+71	Q2	code optim for space effici 	2185	5.250804627276956	Rushi_PC
+72	Q2	code optim for space effici 	1999	5.213358196753	Rushi_PC
+73	Q2	code optim for space effici 	1566	5.209650412311614	Rushi_PC
+74	Q2	code optim for space effici 	2374	5.182887836040422	Rushi_PC
+75	Q2	code optim for space effici 	1231	5.173607091069798	Rushi_PC
+76	Q2	code optim for space effici 	3110	5.15190359966161	Rushi_PC
+77	Q2	code optim for space effici 	2651	5.060865261343393	Rushi_PC
+78	Q2	code optim for space effici 	1369	5.022497368040837	Rushi_PC
+79	Q2	code optim for space effici 	1389	4.966168312542392	Rushi_PC
+80	Q2	code optim for space effici 	2964	4.960546068697142	Rushi_PC
+81	Q2	code optim for space effici 	1362	4.952407597870181	Rushi_PC
+82	Q2	code optim for space effici 	849	4.9401189013137685	Rushi_PC
+83	Q2	code optim for space effici 	48	4.92030061799207	Rushi_PC
+84	Q2	code optim for space effici 	1670	4.907954652313113	Rushi_PC
+85	Q2	code optim for space effici 	2346	4.885203990579143	Rushi_PC
+86	Q2	code optim for space effici 	1134	4.880914521093942	Rushi_PC
+87	Q2	code optim for space effici 	1756	4.867911927220826	Rushi_PC
+88	Q2	code optim for space effici 	3169	4.864221396731637	Rushi_PC
+89	Q2	code optim for space effici 	2857	4.862765211431876	Rushi_PC
+90	Q2	code optim for space effici 	1651	4.859904924440404	Rushi_PC
+91	Q2	code optim for space effici 	3067	4.857395830553017	Rushi_PC
+92	Q2	code optim for space effici 	2006	4.850741848848075	Rushi_PC
+93	Q2	code optim for space effici 	2835	4.845236671784259	Rushi_PC
+94	Q2	code optim for space effici 	1652	4.844938579077493	Rushi_PC
+95	Q2	code optim for space effici 	1172	4.836770306230028	Rushi_PC
+96	Q2	code optim for space effici 	2437	4.804067996445893	Rushi_PC
+97	Q2	code optim for space effici 	2729	4.783255928480711	Rushi_PC
+98	Q2	code optim for space effici 	3083	4.7592212894500125	Rushi_PC
+99	Q2	code optim for space effici 	1088	4.759029994274436	Rushi_PC
+100	Q2	code optim for space effici 	2888	4.756836861494009	Rushi_PC
+query_id				doc_id				rank				BM25_score				system_name
+1	Q3	parallel algorithm 	2714	6.518863892820776	Rushi_PC
+2	Q3	parallel algorithm 	2664	6.361193328239626	Rushi_PC
+3	Q3	parallel algorithm 	2973	6.358943029902417	Rushi_PC
+4	Q3	parallel algorithm 	2785	6.098958382932746	Rushi_PC
+5	Q3	parallel algorithm 	2685	5.992669482780828	Rushi_PC
+6	Q3	parallel algorithm 	2433	5.966053299737788	Rushi_PC
+7	Q3	parallel algorithm 	950	5.924532967885141	Rushi_PC
+8	Q3	parallel algorithm 	1262	5.837367235321383	Rushi_PC
+9	Q3	parallel algorithm 	2266	5.826888637979669	Rushi_PC
+10	Q3	parallel algorithm 	2700	5.7427868185227124	Rushi_PC
+11	Q3	parallel algorithm 	2896	5.734134995939526	Rushi_PC
+12	Q3	parallel algorithm 	1158	5.690684095895541	Rushi_PC
+13	Q3	parallel algorithm 	3075	5.6682837903755425	Rushi_PC
+14	Q3	parallel algorithm 	1828	5.664123880858041	Rushi_PC
+15	Q3	parallel algorithm 	3156	5.620738691215249	Rushi_PC
+16	Q3	parallel algorithm 	1601	5.528016712254266	Rushi_PC
+17	Q3	parallel algorithm 	1811	5.4988934740730055	Rushi_PC
+18	Q3	parallel algorithm 	141	5.466124803833196	Rushi_PC
+19	Q3	parallel algorithm 	392	5.371452115100625	Rushi_PC
+20	Q3	parallel algorithm 	1302	5.371452115100625	Rushi_PC
+21	Q3	parallel algorithm 	1613	5.31427745743464	Rushi_PC
+22	Q3	parallel algorithm 	2182	5.191615674333436	Rushi_PC
+23	Q3	parallel algorithm 	2660	5.148522487448754	Rushi_PC
+24	Q3	parallel algorithm 	2557	5.102498609112697	Rushi_PC
+25	Q3	parallel algorithm 	1367	5.064447245630476	Rushi_PC
+26	Q3	parallel algorithm 	1795	4.983073777062326	Rushi_PC
+27	Q3	parallel algorithm 	1468	4.9789906013884995	Rushi_PC
+28	Q3	parallel algorithm 	2401	4.948010109371624	Rushi_PC
+29	Q3	parallel algorithm 	2895	4.922871301137722	Rushi_PC
+30	Q3	parallel algorithm 	2952	4.827927446854279	Rushi_PC
+31	Q3	parallel algorithm 	2342	4.826592300376235	Rushi_PC
+32	Q3	parallel algorithm 	2851	4.709326108197897	Rushi_PC
+33	Q3	parallel algorithm 	2865	4.704774915593224	Rushi_PC
+34	Q3	parallel algorithm 	3059	4.611498232649141	Rushi_PC
+35	Q3	parallel algorithm 	3073	4.544178839441205	Rushi_PC
+36	Q3	parallel algorithm 	2195	4.506452008798133	Rushi_PC
+37	Q3	parallel algorithm 	46	4.46244687332227	Rushi_PC
+38	Q3	parallel algorithm 	2289	4.453733646853855	Rushi_PC
+39	Q3	parallel algorithm 	2570	4.4205671456462055	Rushi_PC
+40	Q3	parallel algorithm 	2080	4.383603036510818	Rushi_PC
+41	Q3	parallel algorithm 	2175	4.3526139710392995	Rushi_PC
+42	Q3	parallel algorithm 	1846	4.272659883577466	Rushi_PC
+43	Q3	parallel algorithm 	1569	4.234630366138442	Rushi_PC
+44	Q3	parallel algorithm 	1747	4.139588183158981	Rushi_PC
+45	Q3	parallel algorithm 	2838	4.06543980490309	Rushi_PC
+46	Q3	parallel algorithm 	3044	4.0414876785081	Rushi_PC
+47	Q3	parallel algorithm 	3194	3.8412581149713563	Rushi_PC
+48	Q3	parallel algorithm 	2740	3.782180793577914	Rushi_PC
+49	Q3	parallel algorithm 	2311	3.6816561550730333	Rushi_PC
+50	Q3	parallel algorithm 	2727	3.659932158547652	Rushi_PC
+51	Q3	parallel algorithm 	1854	3.6486892140058633	Rushi_PC
+52	Q3	parallel algorithm 	1008	3.638463027580607	Rushi_PC
+53	Q3	parallel algorithm 	1380	3.5550475134625743	Rushi_PC
+54	Q3	parallel algorithm 	2060	3.412255035181046	Rushi_PC
+55	Q3	parallel algorithm 	1200	3.3991877498281595	Rushi_PC
+56	Q3	parallel algorithm 	2514	3.344206705479924	Rushi_PC
+57	Q3	parallel algorithm 	1471	3.326272817860022	Rushi_PC
+58	Q3	parallel algorithm 	1957	3.280411673605812	Rushi_PC
+59	Q3	parallel algorithm 	3175	3.2489409953509965	Rushi_PC
+60	Q3	parallel algorithm 	1554	3.222582865569266	Rushi_PC
+61	Q3	parallel algorithm 	2114	3.172844175697651	Rushi_PC
+62	Q3	parallel algorithm 	1341	3.156974588205189	Rushi_PC
+63	Q3	parallel algorithm 	1603	3.1094951374164594	Rushi_PC
+64	Q3	parallel algorithm 	1960	3.078627704372036	Rushi_PC
+65	Q3	parallel algorithm 	1536	3.063422664677511	Rushi_PC
+66	Q3	parallel algorithm 	2376	2.9192440688634074	Rushi_PC
+67	Q3	parallel algorithm 	320	2.9055691397249426	Rushi_PC
+68	Q3	parallel algorithm 	1959	2.9010501477770516	Rushi_PC
+69	Q3	parallel algorithm 	2515	2.828364641422053	Rushi_PC
+70	Q3	parallel algorithm 	2898	2.691251515281489	Rushi_PC
+71	Q3	parallel algorithm 	2723	2.5903907586396047	Rushi_PC
+72	Q3	parallel algorithm 	1325	2.5901079797586117	Rushi_PC
+73	Q3	parallel algorithm 	3120	2.568655515161252	Rushi_PC
+74	Q3	parallel algorithm 	2967	2.5475554898407973	Rushi_PC
+75	Q3	parallel algorithm 	1409	2.3452723464548835	Rushi_PC
+76	Q3	parallel algorithm 	2497	2.2598263317832994	Rushi_PC
+77	Q3	parallel algorithm 	1928	2.165165383723907	Rushi_PC
+78	Q3	parallel algorithm 	2692	1.979607673253225	Rushi_PC
+79	Q3	parallel algorithm 	2430	0.639232853861655	Rushi_PC
+80	Q3	parallel algorithm 	371	0.6351085070634519	Rushi_PC
+81	Q3	parallel algorithm 	1559	0.6339063562203577	Rushi_PC
+82	Q3	parallel algorithm 	2090	0.6269409249995455	Rushi_PC
+83	Q3	parallel algorithm 	1539	0.6258202851259954	Rushi_PC
+84	Q3	parallel algorithm 	2042	0.6207866304808157	Rushi_PC
+85	Q3	parallel algorithm 	2146	0.6147372753493077	Rushi_PC
+86	Q3	parallel algorithm 	199	0.6102516197103351	Rushi_PC
+87	Q3	parallel algorithm 	2884	0.6079717401077693	Rushi_PC
+88	Q3	parallel algorithm 	2630	0.6062745181123621	Rushi_PC
+89	Q3	parallel algorithm 	2679	0.601872839637309	Rushi_PC
+90	Q3	parallel algorithm 	2520	0.5995171497698625	Rushi_PC
+91	Q3	parallel algorithm 	2767	0.5992419993806354	Rushi_PC
+92	Q3	parallel algorithm 	2509	0.5974709960908257	Rushi_PC
+93	Q3	parallel algorithm 	2348	0.5943590505121109	Rushi_PC
+94	Q3	parallel algorithm 	1560	0.5943590505121109	Rushi_PC
+95	Q3	parallel algorithm 	1990	0.5943590505121109	Rushi_PC
+96	Q3	parallel algorithm 	2283	0.5934832657311467	Rushi_PC
+97	Q3	parallel algorithm 	2417	0.5912793542851943	Rushi_PC
+98	Q3	parallel algorithm 	1961	0.5896499109652239	Rushi_PC
+99	Q3	parallel algorithm 	2863	0.5871329173466812	Rushi_PC
+100	Q3	parallel algorithm 	2510	0.5852147252374927	Rushi_PC
+query_id				doc_id				rank				BM25_score				system_name
+1	Q4	distribut comput structur and algorithm 	2914	7.240502702493499	Rushi_PC
+2	Q4	distribut comput structur and algorithm 	2032	7.2056729418805725	Rushi_PC
+3	Q4	distribut comput structur and algorithm 	2454	7.092896491525964	Rushi_PC
+4	Q4	distribut comput structur and algorithm 	2276	7.0268484208240345	Rushi_PC
+5	Q4	distribut comput structur and algorithm 	1951	6.57461295271278	Rushi_PC
+6	Q4	distribut comput structur and algorithm 	2549	6.517926853685685	Rushi_PC
+7	Q4	distribut comput structur and algorithm 	1778	6.502653649454814	Rushi_PC
+8	Q4	distribut comput structur and algorithm 	2406	6.492416392834194	Rushi_PC
+9	Q4	distribut comput structur and algorithm 	1941	6.450894024416369	Rushi_PC
+10	Q4	distribut comput structur and algorithm 	1733	6.425349504053823	Rushi_PC
+11	Q4	distribut comput structur and algorithm 	2849	6.369097860457199	Rushi_PC
+12	Q4	distribut comput structur and algorithm 	3148	6.351641045889227	Rushi_PC
+13	Q4	distribut comput structur and algorithm 	1944	6.35001809741558	Rushi_PC
+14	Q4	distribut comput structur and algorithm 	2090	6.337692412094644	Rushi_PC
+15	Q4	distribut comput structur and algorithm 	1894	6.300851229314088	Rushi_PC
+16	Q4	distribut comput structur and algorithm 	2949	6.298960724515856	Rushi_PC
+17	Q4	distribut comput structur and algorithm 	1716	6.276575057974108	Rushi_PC
+18	Q4	distribut comput structur and algorithm 	3135	6.136713755734363	Rushi_PC
+19	Q4	distribut comput structur and algorithm 	3082	6.132092941361395	Rushi_PC
+20	Q4	distribut comput structur and algorithm 	2926	6.130191645762083	Rushi_PC
+21	Q4	distribut comput structur and algorithm 	2212	6.0696376442654545	Rushi_PC
+22	Q4	distribut comput structur and algorithm 	2427	6.062482123096561	Rushi_PC
+23	Q4	distribut comput structur and algorithm 	3137	6.0295401801833375	Rushi_PC
+24	Q4	distribut comput structur and algorithm 	1987	5.935308841629312	Rushi_PC
+25	Q4	distribut comput structur and algorithm 	2123	5.935308841629312	Rushi_PC
+26	Q4	distribut comput structur and algorithm 	2649	5.930953947675586	Rushi_PC
+27	Q4	distribut comput structur and algorithm 	2565	5.9043655751577395	Rushi_PC
+28	Q4	distribut comput structur and algorithm 	2098	5.896386542070502	Rushi_PC
+29	Q4	distribut comput structur and algorithm 	1714	5.873751104506145	Rushi_PC
+30	Q4	distribut comput structur and algorithm 	2261	5.834140831426841	Rushi_PC
+31	Q4	distribut comput structur and algorithm 	2250	5.8136205715986025	Rushi_PC
+32	Q4	distribut comput structur and algorithm 	241	5.79577877666881	Rushi_PC
+33	Q4	distribut comput structur and algorithm 	2259	5.783827191585886	Rushi_PC
+34	Q4	distribut comput structur and algorithm 	2057	5.725426298652805	Rushi_PC
+35	Q4	distribut comput structur and algorithm 	3084	5.640873463764689	Rushi_PC
+36	Q4	distribut comput structur and algorithm 	2349	5.640050163716855	Rushi_PC
+37	Q4	distribut comput structur and algorithm 	2216	5.5808206832800895	Rushi_PC
+38	Q4	distribut comput structur and algorithm 	2481	5.448919409557634	Rushi_PC
+39	Q4	distribut comput structur and algorithm 	1663	5.445986800132247	Rushi_PC
+40	Q4	distribut comput structur and algorithm 	711	5.421509607384213	Rushi_PC
+41	Q4	distribut comput structur and algorithm 	1081	5.373307341165484	Rushi_PC
+42	Q4	distribut comput structur and algorithm 	1604	5.370525951441688	Rushi_PC
+43	Q4	distribut comput structur and algorithm 	2686	5.2859281047275575	Rushi_PC
+44	Q4	distribut comput structur and algorithm 	2578	5.212579310076342	Rushi_PC
+45	Q4	distribut comput structur and algorithm 	1157	5.188775178989742	Rushi_PC
+46	Q4	distribut comput structur and algorithm 	1583	5.188775178989742	Rushi_PC
+47	Q4	distribut comput structur and algorithm 	1918	5.188775178989742	Rushi_PC
+48	Q4	distribut comput structur and algorithm 	2816	5.176107641468732	Rushi_PC
+49	Q4	distribut comput structur and algorithm 	3043	5.066566889433932	Rushi_PC
+50	Q4	distribut comput structur and algorithm 	1584	5.058484871992399	Rushi_PC
+51	Q4	distribut comput structur and algorithm 	1779	5.016496741973493	Rushi_PC
+52	Q4	distribut comput structur and algorithm 	1920	4.975199921588727	Rushi_PC
+53	Q4	distribut comput structur and algorithm 	2249	4.9559484927003155	Rushi_PC
+54	Q4	distribut comput structur and algorithm 	2334	4.855290703029199	Rushi_PC
+55	Q4	distribut comput structur and algorithm 	2548	4.855290703029199	Rushi_PC
+56	Q4	distribut comput structur and algorithm 	2025	4.816595161740115	Rushi_PC
+57	Q4	distribut comput structur and algorithm 	2333	4.7410254148743265	Rushi_PC
+58	Q4	distribut comput structur and algorithm 	862	4.73960509762111	Rushi_PC
+59	Q4	distribut comput structur and algorithm 	1153	4.705934271134069	Rushi_PC
+60	Q4	distribut comput structur and algorithm 	1780	4.704122855959452	Rushi_PC
+61	Q4	distribut comput structur and algorithm 	3119	4.69477245862939	Rushi_PC
+62	Q4	distribut comput structur and algorithm 	2667	4.682899147302225	Rushi_PC
+63	Q4	distribut comput structur and algorithm 	2313	4.647083708858978	Rushi_PC
+64	Q4	distribut comput structur and algorithm 	2371	4.640670077419469	Rushi_PC
+65	Q4	distribut comput structur and algorithm 	2566	4.632014743470036	Rushi_PC
+66	Q4	distribut comput structur and algorithm 	2798	4.6315249645941305	Rushi_PC
+67	Q4	distribut comput structur and algorithm 	2478	4.619726321505899	Rushi_PC
+68	Q4	distribut comput structur and algorithm 	3072	4.5520527407845055	Rushi_PC
+69	Q4	distribut comput structur and algorithm 	2936	4.5155387278347145	Rushi_PC
+70	Q4	distribut comput structur and algorithm 	2969	4.508469745261234	Rushi_PC
+71	Q4	distribut comput structur and algorithm 	2004	4.4965739540026055	Rushi_PC
+72	Q4	distribut comput structur and algorithm 	1003	4.496148937401872	Rushi_PC
+73	Q4	distribut comput structur and algorithm 	2402	4.47668865412262	Rushi_PC
+74	Q4	distribut comput structur and algorithm 	954	4.468713388423037	Rushi_PC
+75	Q4	distribut comput structur and algorithm 	1431	4.429058285131342	Rushi_PC
+76	Q4	distribut comput structur and algorithm 	2187	4.377459040330025	Rushi_PC
+77	Q4	distribut comput structur and algorithm 	3131	4.370467158646373	Rushi_PC
+78	Q4	distribut comput structur and algorithm 	52	4.36186955928449	Rushi_PC
+79	Q4	distribut comput structur and algorithm 	2828	4.319859591469964	Rushi_PC
+80	Q4	distribut comput structur and algorithm 	88	4.293434208712566	Rushi_PC
+81	Q4	distribut comput structur and algorithm 	1514	4.2718205139422825	Rushi_PC
+82	Q4	distribut comput structur and algorithm 	1410	4.2638610126021925	Rushi_PC
+83	Q4	distribut comput structur and algorithm 	2176	4.25826373542282	Rushi_PC
+84	Q4	distribut comput structur and algorithm 	2718	4.239910985615013	Rushi_PC
+85	Q4	distribut comput structur and algorithm 	3010	4.238396070473709	Rushi_PC
+86	Q4	distribut comput structur and algorithm 	2078	4.221686584738013	Rushi_PC
+87	Q4	distribut comput structur and algorithm 	2457	4.204132976923833	Rushi_PC
+88	Q4	distribut comput structur and algorithm 	1305	4.161970729225693	Rushi_PC
+89	Q4	distribut comput structur and algorithm 	2802	4.144470111599526	Rushi_PC
+90	Q4	distribut comput structur and algorithm 	2547	4.1348554579949	Rushi_PC
+91	Q4	distribut comput structur and algorithm 	1997	4.131777788847337	Rushi_PC
+92	Q4	distribut comput structur and algorithm 	2767	4.128370945256978	Rushi_PC
+93	Q4	distribut comput structur and algorithm 	2081	4.113984368365234	Rushi_PC
+94	Q4	distribut comput structur and algorithm 	3165	4.106254106833818	Rushi_PC
+95	Q4	distribut comput structur and algorithm 	2594	4.083824152483005	Rushi_PC
+96	Q4	distribut comput structur and algorithm 	2975	4.080857506585533	Rushi_PC
+97	Q4	distribut comput structur and algorithm 	2954	4.054023010847589	Rushi_PC
+98	Q4	distribut comput structur and algorithm 	1569	4.024939078635496	Rushi_PC
+99	Q4	distribut comput structur and algorithm 	2060	4.006626139524188	Rushi_PC
+100	Q4	distribut comput structur and algorithm 	758	4.004599421843704	Rushi_PC
+query_id				doc_id				rank				BM25_score				system_name
+1	Q5	appli stochast process 	1696	8.907097565635556	Rushi_PC
+2	Q5	appli stochast process 	268	8.080466472810679	Rushi_PC
+3	Q5	appli stochast process 	1410	6.322933846379989	Rushi_PC
+4	Q5	appli stochast process 	20	5.602533157110598	Rushi_PC
+5	Q5	appli stochast process 	1233	5.575412193487013	Rushi_PC
+6	Q5	appli stochast process 	2882	5.521332080468029	Rushi_PC
+7	Q5	appli stochast process 	2535	5.458948934772701	Rushi_PC
+8	Q5	appli stochast process 	3020	5.440120142800649	Rushi_PC
+9	Q5	appli stochast process 	1540	5.287375161305749	Rushi_PC
+10	Q5	appli stochast process 	2065	5.22693098417269	Rushi_PC
+11	Q5	appli stochast process 	1216	5.140353554078683	Rushi_PC
+12	Q5	appli stochast process 	3120	5.0398429714524235	Rushi_PC
+13	Q5	appli stochast process 	1194	4.912400182867082	Rushi_PC
+14	Q5	appli stochast process 	1359	4.7714598335877785	Rushi_PC
+15	Q5	appli stochast process 	1892	4.70163713029692	Rushi_PC
+16	Q5	appli stochast process 	1468	4.603619004677449	Rushi_PC
+17	Q5	appli stochast process 	293	4.582975792502448	Rushi_PC
+18	Q5	appli stochast process 	927	4.5068934918457675	Rushi_PC
+19	Q5	appli stochast process 	2523	4.485269110089133	Rushi_PC
+20	Q5	appli stochast process 	3059	4.440356667153779	Rushi_PC
+21	Q5	appli stochast process 	2844	4.397391390261582	Rushi_PC
+22	Q5	appli stochast process 	1435	4.310376325460446	Rushi_PC
+23	Q5	appli stochast process 	2742	4.2321743948109205	Rushi_PC
+24	Q5	appli stochast process 	111	4.209143259203434	Rushi_PC
+25	Q5	appli stochast process 	3030	4.170745857434825	Rushi_PC
+26	Q5	appli stochast process 	2396	4.145228938403629	Rushi_PC
+27	Q5	appli stochast process 	1180	4.012967875526138	Rushi_PC
+28	Q5	appli stochast process 	942	4.012967875526138	Rushi_PC
+29	Q5	appli stochast process 	3153	3.999670709222957	Rushi_PC
+30	Q5	appli stochast process 	1925	3.8843907724782265	Rushi_PC
+31	Q5	appli stochast process 	1637	3.7805643712802697	Rushi_PC
+32	Q5	appli stochast process 	1438	3.758209847445139	Rushi_PC
+33	Q5	appli stochast process 	1441	3.7318058460068917	Rushi_PC
+34	Q5	appli stochast process 	78	3.730705112969435	Rushi_PC
+35	Q5	appli stochast process 	2000	3.656413989079216	Rushi_PC
+36	Q5	appli stochast process 	2767	3.541467207248917	Rushi_PC
+37	Q5	appli stochast process 	1563	3.5378216876875044	Rushi_PC
+38	Q5	appli stochast process 	3165	3.514409213380583	Rushi_PC
+39	Q5	appli stochast process 	1235	3.5015969194404084	Rushi_PC
+40	Q5	appli stochast process 	3013	3.499915260078761	Rushi_PC
+41	Q5	appli stochast process 	2137	3.4855403662537183	Rushi_PC
+42	Q5	appli stochast process 	2453	3.4855403662537183	Rushi_PC
+43	Q5	appli stochast process 	1051	3.4017110757085263	Rushi_PC
+44	Q5	appli stochast process 	2705	3.3620830386370515	Rushi_PC
+45	Q5	appli stochast process 	2727	3.322148327757702	Rushi_PC
+46	Q5	appli stochast process 	1028	3.301212863775327	Rushi_PC
+47	Q5	appli stochast process 	2080	3.295222079664888	Rushi_PC
+48	Q5	appli stochast process 	3043	3.290787679041539	Rushi_PC
+49	Q5	appli stochast process 	2999	3.2819545860902792	Rushi_PC
+50	Q5	appli stochast process 	2409	3.2812628439099636	Rushi_PC
+51	Q5	appli stochast process 	1673	3.26155250111349	Rushi_PC
+52	Q5	appli stochast process 	2210	3.2416476076945195	Rushi_PC
+53	Q5	appli stochast process 	2252	3.196691587777087	Rushi_PC
+54	Q5	appli stochast process 	1110	3.185023543997428	Rushi_PC
+55	Q5	appli stochast process 	1707	3.185023543997428	Rushi_PC
+56	Q5	appli stochast process 	1008	3.185023543997428	Rushi_PC
+57	Q5	appli stochast process 	1631	3.166449179992625	Rushi_PC
+58	Q5	appli stochast process 	1169	3.1609709261986834	Rushi_PC
+59	Q5	appli stochast process 	2185	3.1120035972818374	Rushi_PC
+60	Q5	appli stochast process 	987	3.1034116490883057	Rushi_PC
+61	Q5	appli stochast process 	2203	3.102716976069943	Rushi_PC
+62	Q5	appli stochast process 	1383	3.0942687722677085	Rushi_PC
+63	Q5	appli stochast process 	2376	3.082087371229528	Rushi_PC
+64	Q5	appli stochast process 	1588	3.0311494281024345	Rushi_PC
+65	Q5	appli stochast process 	2174	3.0085426855086226	Rushi_PC
+66	Q5	appli stochast process 	1382	2.9919643328923016	Rushi_PC
+67	Q5	appli stochast process 	1886	2.9915981714826687	Rushi_PC
+68	Q5	appli stochast process 	2342	2.9817816782468682	Rushi_PC
+69	Q5	appli stochast process 	2836	2.959349775466195	Rushi_PC
+70	Q5	appli stochast process 	1116	2.9433076928923456	Rushi_PC
+71	Q5	appli stochast process 	3138	2.921564572939954	Rushi_PC
+72	Q5	appli stochast process 	1671	2.921564572939954	Rushi_PC
+73	Q5	appli stochast process 	1746	2.9157117278367957	Rushi_PC
+74	Q5	appli stochast process 	2912	2.913694269221093	Rushi_PC
+75	Q5	appli stochast process 	2307	2.9016678681699823	Rushi_PC
+76	Q5	appli stochast process 	2866	2.896208279943832	Rushi_PC
+77	Q5	appli stochast process 	1678	2.8808416736419247	Rushi_PC
+78	Q5	appli stochast process 	2953	2.8808416736419247	Rushi_PC
+79	Q5	appli stochast process 	2251	2.8656372699956	Rushi_PC
+80	Q5	appli stochast process 	1251	2.8435823798039053	Rushi_PC
+81	Q5	appli stochast process 	1554	2.8209719932610806	Rushi_PC
+82	Q5	appli stochast process 	1947	2.8209719932610806	Rushi_PC
+83	Q5	appli stochast process 	2309	2.791643083140693	Rushi_PC
+84	Q5	appli stochast process 	2370	2.7786728264737675	Rushi_PC
+85	Q5	appli stochast process 	1748	2.7710599532483267	Rushi_PC
+86	Q5	appli stochast process 	1535	2.7635400758548325	Rushi_PC
+87	Q5	appli stochast process 	414	2.7539169449239465	Rushi_PC
+88	Q5	appli stochast process 	1307	2.7421966860524267	Rushi_PC
+89	Q5	appli stochast process 	2740	2.741239481576373	Rushi_PC
+90	Q5	appli stochast process 	2263	2.735386093835364	Rushi_PC
+91	Q5	appli stochast process 	1439	2.725092124901584	Rushi_PC
+92	Q5	appli stochast process 	1570	2.725092124901584	Rushi_PC
+93	Q5	appli stochast process 	1809	2.7219776997988285	Rushi_PC
+94	Q5	appli stochast process 	394	2.717733471666724	Rushi_PC
+95	Q5	appli stochast process 	2320	2.710904815522262	Rushi_PC
+96	Q5	appli stochast process 	1147	2.7084000015945264	Rushi_PC
+97	Q5	appli stochast process 	3068	2.7084000015945264	Rushi_PC
+98	Q5	appli stochast process 	95	2.694957086907064	Rushi_PC
+99	Q5	appli stochast process 	141	2.6937832316284793	Rushi_PC
+100	Q5	appli stochast process 	412	2.6937832316284793	Rushi_PC
+query_id				doc_id				rank				BM25_score				system_name
+1	Q6	perform evalu and model of comput system 	2318	17.17645829918767	Rushi_PC
+2	Q6	perform evalu and model of comput system 	3048	13.178811529058137	Rushi_PC
+3	Q6	perform evalu and model of comput system 	3089	11.902869959179508	Rushi_PC
+4	Q6	perform evalu and model of comput system 	3119	11.68825232680813	Rushi_PC
+5	Q6	perform evalu and model of comput system 	3070	11.47376060676615	Rushi_PC
+6	Q6	perform evalu and model of comput system 	2984	10.951024256174534	Rushi_PC
+7	Q6	perform evalu and model of comput system 	2542	10.860451207881512	Rushi_PC
+8	Q6	perform evalu and model of comput system 	2319	10.810350005954447	Rushi_PC
+9	Q6	perform evalu and model of comput system 	2741	10.791543251952342	Rushi_PC
+10	Q6	perform evalu and model of comput system 	2452	10.40356353769885	Rushi_PC
+11	Q6	perform evalu and model of comput system 	2894	10.2012330477584	Rushi_PC
+12	Q6	perform evalu and model of comput system 	2882	9.82850264138461	Rushi_PC
+13	Q6	perform evalu and model of comput system 	2862	9.666461053086987	Rushi_PC
+14	Q6	perform evalu and model of comput system 	3136	9.624431586400242	Rushi_PC
+15	Q6	perform evalu and model of comput system 	1653	9.538256794921708	Rushi_PC
+16	Q6	perform evalu and model of comput system 	1938	9.32573916835368	Rushi_PC
+17	Q6	perform evalu and model of comput system 	2988	9.135682639589264	Rushi_PC
+18	Q6	perform evalu and model of comput system 	1518	9.127907279833849	Rushi_PC
+19	Q6	perform evalu and model of comput system 	2571	9.09642081486251	Rushi_PC
+20	Q6	perform evalu and model of comput system 	2859	8.200793072029182	Rushi_PC
+21	Q6	perform evalu and model of comput system 	2535	8.160362804994946	Rushi_PC
+22	Q6	perform evalu and model of comput system 	1827	8.149119395591335	Rushi_PC
+23	Q6	perform evalu and model of comput system 	2522	8.096279802965853	Rushi_PC
+24	Q6	perform evalu and model of comput system 	2669	7.99102269863991	Rushi_PC
+25	Q6	perform evalu and model of comput system 	1719	7.806337010127013	Rushi_PC
+26	Q6	perform evalu and model of comput system 	2245	7.571923540500162	Rushi_PC
+27	Q6	perform evalu and model of comput system 	2711	7.561350919127499	Rushi_PC
+28	Q6	perform evalu and model of comput system 	1344	7.557169307478512	Rushi_PC
+29	Q6	perform evalu and model of comput system 	2812	7.513235675432844	Rushi_PC
+30	Q6	perform evalu and model of comput system 	1680	7.480856641679229	Rushi_PC
+31	Q6	perform evalu and model of comput system 	2951	7.431450818537025	Rushi_PC
+32	Q6	perform evalu and model of comput system 	3072	7.429663951517476	Rushi_PC
+33	Q6	perform evalu and model of comput system 	2798	7.419575923037484	Rushi_PC
+34	Q6	perform evalu and model of comput system 	2681	7.3893058971753405	Rushi_PC
+35	Q6	perform evalu and model of comput system 	1698	7.313033024150254	Rushi_PC
+36	Q6	perform evalu and model of comput system 	2892	7.2778313782972806	Rushi_PC
+37	Q6	perform evalu and model of comput system 	3059	7.082344038972522	Rushi_PC
+38	Q6	perform evalu and model of comput system 	1199	7.005913624939534	Rushi_PC
+39	Q6	perform evalu and model of comput system 	2344	6.979789740843996	Rushi_PC
+40	Q6	perform evalu and model of comput system 	1908	6.9330131985008006	Rushi_PC
+41	Q6	perform evalu and model of comput system 	1032	6.800003459822355	Rushi_PC
+42	Q6	perform evalu and model of comput system 	1030	6.705001204877497	Rushi_PC
+43	Q6	perform evalu and model of comput system 	1526	6.675491305911576	Rushi_PC
+44	Q6	perform evalu and model of comput system 	1951	6.657924829728443	Rushi_PC
+45	Q6	perform evalu and model of comput system 	2990	6.645571089915606	Rushi_PC
+46	Q6	perform evalu and model of comput system 	1542	6.549889524618033	Rushi_PC
+47	Q6	perform evalu and model of comput system 	2268	6.5166143132260075	Rushi_PC
+48	Q6	perform evalu and model of comput system 	1931	6.507477539197979	Rushi_PC
+49	Q6	perform evalu and model of comput system 	1533	6.503660458814247	Rushi_PC
+50	Q6	perform evalu and model of comput system 	2375	6.478352391475807	Rushi_PC
+51	Q6	perform evalu and model of comput system 	1699	6.413404254902909	Rushi_PC
+52	Q6	perform evalu and model of comput system 	2188	6.260778439451748	Rushi_PC
+53	Q6	perform evalu and model of comput system 	2069	6.247581452137105	Rushi_PC
+54	Q6	perform evalu and model of comput system 	3147	6.2325905154002985	Rushi_PC
+55	Q6	perform evalu and model of comput system 	1572	6.208381340345451	Rushi_PC
+56	Q6	perform evalu and model of comput system 	3028	6.151380640545733	Rushi_PC
+57	Q6	perform evalu and model of comput system 	2634	6.114310218553635	Rushi_PC
+58	Q6	perform evalu and model of comput system 	2743	6.073683242058967	Rushi_PC
+59	Q6	perform evalu and model of comput system 	3137	5.952215507599382	Rushi_PC
+60	Q6	perform evalu and model of comput system 	1751	5.922148004883391	Rushi_PC
+61	Q6	perform evalu and model of comput system 	2372	5.905658638565331	Rushi_PC
+62	Q6	perform evalu and model of comput system 	2286	5.897305228231213	Rushi_PC
+63	Q6	perform evalu and model of comput system 	2624	5.86186304495706	Rushi_PC
+64	Q6	perform evalu and model of comput system 	3068	5.814387426136335	Rushi_PC
+65	Q6	perform evalu and model of comput system 	1957	5.67196301348398	Rushi_PC
+66	Q6	perform evalu and model of comput system 	2560	5.64662587590095	Rushi_PC
+67	Q6	perform evalu and model of comput system 	3169	5.627059354037099	Rushi_PC
+68	Q6	perform evalu and model of comput system 	2720	5.581997461709655	Rushi_PC
+69	Q6	perform evalu and model of comput system 	2017	5.521373730384155	Rushi_PC
+70	Q6	perform evalu and model of comput system 	2679	5.386982727883106	Rushi_PC
+71	Q6	perform evalu and model of comput system 	3088	5.379551344580557	Rushi_PC
+72	Q6	perform evalu and model of comput system 	1892	5.359810841317299	Rushi_PC
+73	Q6	perform evalu and model of comput system 	2840	5.289993364088847	Rushi_PC
+74	Q6	perform evalu and model of comput system 	1308	5.254704500594377	Rushi_PC
+75	Q6	perform evalu and model of comput system 	2048	5.221099282943367	Rushi_PC
+76	Q6	perform evalu and model of comput system 	1805	5.1347175814955115	Rushi_PC
+77	Q6	perform evalu and model of comput system 	1792	5.12765730522115	Rushi_PC
+78	Q6	perform evalu and model of comput system 	2849	5.10864796005982	Rushi_PC
+79	Q6	perform evalu and model of comput system 	1591	5.075836584754291	Rushi_PC
+80	Q6	perform evalu and model of comput system 	1261	5.024164963778399	Rushi_PC
+81	Q6	perform evalu and model of comput system 	2374	5.0109162045270175	Rushi_PC
+82	Q6	perform evalu and model of comput system 	2852	4.969405401106427	Rushi_PC
+83	Q6	perform evalu and model of comput system 	2396	4.934661558604708	Rushi_PC
+84	Q6	perform evalu and model of comput system 	3002	4.884325021889104	Rushi_PC
+85	Q6	perform evalu and model of comput system 	2668	4.853221066844991	Rushi_PC
+86	Q6	perform evalu and model of comput system 	436	4.805082800927441	Rushi_PC
+87	Q6	perform evalu and model of comput system 	1912	4.795843916924586	Rushi_PC
+88	Q6	perform evalu and model of comput system 	2965	4.75133341991852	Rushi_PC
+89	Q6	perform evalu and model of comput system 	2561	4.737215865907915	Rushi_PC
+90	Q6	perform evalu and model of comput system 	3026	4.73267697529333	Rushi_PC
+91	Q6	perform evalu and model of comput system 	1695	4.720995380605988	Rushi_PC
+92	Q6	perform evalu and model of comput system 	3168	4.7140605070245405	Rushi_PC
+93	Q6	perform evalu and model of comput system 	2434	4.701811492122919	Rushi_PC
+94	Q6	perform evalu and model of comput system 	617	4.67777928421095	Rushi_PC
+95	Q6	perform evalu and model of comput system 	2062	4.6767311646209535	Rushi_PC
+96	Q6	perform evalu and model of comput system 	2105	4.656989530013407	Rushi_PC
+97	Q6	perform evalu and model of comput system 	1161	4.65685075000253	Rushi_PC
+98	Q6	perform evalu and model of comput system 	3144	4.612596375943933	Rushi_PC
+99	Q6	perform evalu and model of comput system 	1441	4.599160844583028	Rushi_PC
+100	Q6	perform evalu and model of comput system 	3016	4.57672434031077	Rushi_PC
+query_id				doc_id				rank				BM25_score				system_name
+1	Q7	parallel processor in inform retriev 	1811	12.130483878110482	Rushi_PC
+2	Q7	parallel processor in inform retriev 	2714	10.633192881742204	Rushi_PC
+3	Q7	parallel processor in inform retriev 	2973	10.600998921083834	Rushi_PC
+4	Q7	parallel processor in inform retriev 	1613	10.473800410594995	Rushi_PC
+5	Q7	parallel processor in inform retriev 	2664	10.424451367980971	Rushi_PC
+6	Q7	parallel processor in inform retriev 	3075	10.406960611833515	Rushi_PC
+7	Q7	parallel processor in inform retriev 	3156	10.327335627144674	Rushi_PC
+8	Q7	parallel processor in inform retriev 	2967	10.072736407340551	Rushi_PC
+9	Q7	parallel processor in inform retriev 	2278	9.222986332028825	Rushi_PC
+10	Q7	parallel processor in inform retriev 	2114	8.956731048254756	Rushi_PC
+11	Q7	parallel processor in inform retriev 	2288	8.951575572387116	Rushi_PC
+12	Q7	parallel processor in inform retriev 	891	8.789978315007575	Rushi_PC
+13	Q7	parallel processor in inform retriev 	1699	8.780837712653687	Rushi_PC
+14	Q7	parallel processor in inform retriev 	3134	8.700494409988927	Rushi_PC
+15	Q7	parallel processor in inform retriev 	1457	8.676488452463705	Rushi_PC
+16	Q7	parallel processor in inform retriev 	2838	8.671522371733465	Rushi_PC
+17	Q7	parallel processor in inform retriev 	1927	8.477390684621199	Rushi_PC
+18	Q7	parallel processor in inform retriev 	2723	8.429063123977222	Rushi_PC
+19	Q7	parallel processor in inform retriev 	634	8.265621801609523	Rushi_PC
+20	Q7	parallel processor in inform retriev 	1681	8.160855057727911	Rushi_PC
+21	Q7	parallel processor in inform retriev 	1830	8.147140003497638	Rushi_PC
+22	Q7	parallel processor in inform retriev 	2175	8.145451477115312	Rushi_PC
+23	Q7	parallel processor in inform retriev 	1032	7.973516505382296	Rushi_PC
+24	Q7	parallel processor in inform retriev 	275	7.744919259225852	Rushi_PC
+25	Q7	parallel processor in inform retriev 	651	7.744919259225852	Rushi_PC
+26	Q7	parallel processor in inform retriev 	2497	7.741980494354353	Rushi_PC
+27	Q7	parallel processor in inform retriev 	657	7.67899055643926	Rushi_PC
+28	Q7	parallel processor in inform retriev 	2070	7.67899055643926	Rushi_PC
+29	Q7	parallel processor in inform retriev 	2516	7.636431048811133	Rushi_PC
+30	Q7	parallel processor in inform retriev 	2532	7.487771370028567	Rushi_PC
+31	Q7	parallel processor in inform retriev 	2990	7.431911213807117	Rushi_PC
+32	Q7	parallel processor in inform retriev 	2530	7.416016792813064	Rushi_PC
+33	Q7	parallel processor in inform retriev 	2965	7.416016792813064	Rushi_PC
+34	Q7	parallel processor in inform retriev 	2976	7.416016792813064	Rushi_PC
+35	Q7	parallel processor in inform retriev 	1935	7.3855219729129455	Rushi_PC
+36	Q7	parallel processor in inform retriev 	239	7.36549625320625	Rushi_PC
+37	Q7	parallel processor in inform retriev 	1831	7.36549625320625	Rushi_PC
+38	Q7	parallel processor in inform retriev 	3168	7.357840166693748	Rushi_PC
+39	Q7	parallel processor in inform retriev 	3012	7.340009829055052	Rushi_PC
+40	Q7	parallel processor in inform retriev 	2140	7.325119174414087	Rushi_PC
+41	Q7	parallel processor in inform retriev 	2631	7.246828788120963	Rushi_PC
+42	Q7	parallel processor in inform retriev 	3169	7.244182894450563	Rushi_PC
+43	Q7	parallel processor in inform retriev 	1601	7.225124488207684	Rushi_PC
+44	Q7	parallel processor in inform retriev 	2570	7.20580320996261	Rushi_PC
+45	Q7	parallel processor in inform retriev 	292	7.189392360475757	Rushi_PC
+46	Q7	parallel processor in inform retriev 	2412	7.02151287117019	Rushi_PC
+47	Q7	parallel processor in inform retriev 	2552	7.02151287117019	Rushi_PC
+48	Q7	parallel processor in inform retriev 	2307	6.990619388814448	Rushi_PC
+49	Q7	parallel processor in inform retriev 	2882	6.981044994275558	Rushi_PC
+50	Q7	parallel processor in inform retriev 	1680	6.893754381668112	Rushi_PC
+51	Q7	parallel processor in inform retriev 	2781	6.861294787751191	Rushi_PC
+52	Q7	parallel processor in inform retriev 	2519	6.761384510641717	Rushi_PC
+53	Q7	parallel processor in inform retriev 	1514	6.748445828961552	Rushi_PC
+54	Q7	parallel processor in inform retriev 	1846	6.673446279586675	Rushi_PC
+55	Q7	parallel processor in inform retriev 	1937	6.62880048718743	Rushi_PC
+56	Q7	parallel processor in inform retriev 	2865	6.546613194914373	Rushi_PC
+57	Q7	parallel processor in inform retriev 	2645	6.355387582647603	Rushi_PC
+58	Q7	parallel processor in inform retriev 	1825	6.345319727813526	Rushi_PC
+59	Q7	parallel processor in inform retriev 	1747	6.301627859435091	Rushi_PC
+60	Q7	parallel processor in inform retriev 	2455	6.271099138540791	Rushi_PC
+61	Q7	parallel processor in inform retriev 	1236	6.195066175858931	Rushi_PC
+62	Q7	parallel processor in inform retriev 	2342	6.177631441609986	Rushi_PC
+63	Q7	parallel processor in inform retriev 	1262	6.145978668487635	Rushi_PC
+64	Q7	parallel processor in inform retriev 	2896	6.0655705140705125	Rushi_PC
+65	Q7	parallel processor in inform retriev 	2685	5.992669482780828	Rushi_PC
+66	Q7	parallel processor in inform retriev 	2388	5.992419813162911	Rushi_PC
+67	Q7	parallel processor in inform retriev 	2785	5.99157832655193	Rushi_PC
+68	Q7	parallel processor in inform retriev 	1725	5.972439008066727	Rushi_PC
+69	Q7	parallel processor in inform retriev 	2311	5.941113839915428	Rushi_PC
+70	Q7	parallel processor in inform retriev 	1788	5.928674170181137	Rushi_PC
+71	Q7	parallel processor in inform retriev 	2561	5.927129739663673	Rushi_PC
+72	Q7	parallel processor in inform retriev 	82	5.920081972348553	Rushi_PC
+73	Q7	parallel processor in inform retriev 	1675	5.918532717037144	Rushi_PC
+74	Q7	parallel processor in inform retriev 	1359	5.910198307869509	Rushi_PC
+75	Q7	parallel processor in inform retriev 	1959	5.8895261026617245	Rushi_PC
+76	Q7	parallel processor in inform retriev 	2711	5.884066502009571	Rushi_PC
+77	Q7	parallel processor in inform retriev 	2139	5.879272659034422	Rushi_PC
+78	Q7	parallel processor in inform retriev 	2160	5.8609125003603415	Rushi_PC
+79	Q7	parallel processor in inform retriev 	1828	5.836094964984232	Rushi_PC
+80	Q7	parallel processor in inform retriev 	950	5.827206510877683	Rushi_PC
+81	Q7	parallel processor in inform retriev 	1742	5.823906192257017	Rushi_PC
+82	Q7	parallel processor in inform retriev 	2433	5.758213046158269	Rushi_PC
+83	Q7	parallel processor in inform retriev 	1527	5.745196229585426	Rushi_PC
+84	Q7	parallel processor in inform retriev 	2700	5.7427868185227124	Rushi_PC
+85	Q7	parallel processor in inform retriev 	2543	5.702319377913952	Rushi_PC
+86	Q7	parallel processor in inform retriev 	1158	5.690684095895541	Rushi_PC
+87	Q7	parallel processor in inform retriev 	2258	5.656609032076446	Rushi_PC
+88	Q7	parallel processor in inform retriev 	655	5.6213596879910845	Rushi_PC
+89	Q7	parallel processor in inform retriev 	1665	5.610965301422091	Rushi_PC
+90	Q7	parallel processor in inform retriev 	2846	5.590484249301249	Rushi_PC
+91	Q7	parallel processor in inform retriev 	1627	5.539317165240945	Rushi_PC
+92	Q7	parallel processor in inform retriev 	2947	5.5369511706319905	Rushi_PC
+93	Q7	parallel processor in inform retriev 	2493	5.534380594619591	Rushi_PC
+94	Q7	parallel processor in inform retriev 	2266	5.474325076366153	Rushi_PC
+95	Q7	parallel processor in inform retriev 	1652	5.469552331575807	Rushi_PC
+96	Q7	parallel processor in inform retriev 	141	5.466124803833196	Rushi_PC
+97	Q7	parallel processor in inform retriev 	1929	5.430565530914258	Rushi_PC
+98	Q7	parallel processor in inform retriev 	2832	5.397463764733186	Rushi_PC
+99	Q7	parallel processor in inform retriev 	1988	5.395770350625188	Rushi_PC
+100	Q7	parallel processor in inform retriev 	2575	5.393414846260946	Rushi_PC

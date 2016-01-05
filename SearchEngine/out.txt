@@ -1,0 +1,350 @@
+1	1	portabl oper system 	3127	14.40476558610547
+2	1	portabl oper system 	2246	10.43003385150113
+3	1	portabl oper system 	1930	8.589933060437984
+4	1	portabl oper system 	3196	8.381982796821983
+5	1	portabl oper system 	3068	5.508354856092458
+6	1	portabl oper system 	2593	5.460499308417991
+7	1	portabl oper system 	2740	5.343020348527187
+8	1	portabl oper system 	2319	5.3366264528653105
+9	1	portabl oper system 	2379	5.189560999678649
+10	1	portabl oper system 	1680	5.138557911555516
+11	1	portabl oper system 	2629	5.058379875877375
+12	1	portabl oper system 	1591	5.054557086251675
+13	1	portabl oper system 	1462	5.008024632226972
+14	1	portabl oper system 	1461	4.971087349183238
+15	1	portabl oper system 	2632	4.9337722114527285
+16	1	portabl oper system 	2597	4.869002536357964
+17	1	portabl oper system 	2735	4.8336900240928555
+18	1	portabl oper system 	2482	4.754621193124574
+19	1	portabl oper system 	1236	4.749482962486368
+20	1	portabl oper system 	2796	4.715008893588061
+21	1	portabl oper system 	2424	4.714153921812834
+22	1	portabl oper system 	1033	4.683888046705716
+23	1	portabl oper system 	1755	4.63541333072643
+24	1	portabl oper system 	1750	4.562782307764872
+25	1	portabl oper system 	1472	4.557620222518619
+26	1	portabl oper system 	2357	4.555950213978884
+27	1	portabl oper system 	2541	4.55374334539259
+28	1	portabl oper system 	2868	4.522006012028936
+29	1	portabl oper system 	2317	4.482973819036097
+30	1	portabl oper system 	2111	4.467231355530862
+31	1	portabl oper system 	2920	4.445587652206751
+32	1	portabl oper system 	2080	4.442129012839603
+33	1	portabl oper system 	2867	4.433353680862928
+34	1	portabl oper system 	1334	4.4257187387556085
+35	1	portabl oper system 	1534	4.3925771004576015
+36	1	portabl oper system 	1247	4.373088487921128
+37	1	portabl oper system 	2840	4.369174440639496
+38	1	portabl oper system 	1728	4.358606661313431
+39	1	portabl oper system 	3025	4.346940775169382
+40	1	portabl oper system 	2378	4.3027688795830645
+41	1	portabl oper system 	2064	4.284737508178781
+42	1	portabl oper system 	1519	4.27120433085334
+43	1	portabl oper system 	2153	4.260618183906038
+44	1	portabl oper system 	2798	4.207300948753132
+45	1	portabl oper system 	1657	4.203269377756126
+46	1	portabl oper system 	2126	4.196266248851002
+47	1	portabl oper system 	2372	4.1881807103082345
+48	1	portabl oper system 	1168	4.1483156351239225
+49	1	portabl oper system 	1766	4.142685017973253
+50	1	portabl oper system 	2399	4.13380336277134
+1	2	code optim for space effici 	2530	12.210559012735867
+2	2	code optim for space effici 	2748	11.935877785524934
+3	2	code optim for space effici 	2491	11.728198156102664
+4	2	code optim for space effici 	1947	11.01930200291385
+5	2	code optim for space effici 	2559	10.097618906188483
+6	2	code optim for space effici 	2897	9.962952988699424
+7	2	code optim for space effici 	1795	9.700481325500517
+8	2	code optim for space effici 	2495	9.634504699014345
+9	2	code optim for space effici 	2033	9.157707265986847
+10	2	code optim for space effici 	2856	8.677537871648642
+11	2	code optim for space effici 	2863	8.514163750885468
+12	2	code optim for space effici 	2680	8.45038803951996
+13	2	code optim for space effici 	1886	8.185110004741368
+14	2	code optim for space effici 	1807	8.139703590222423
+15	2	code optim for space effici 	2716	8.0375477702624
+16	2	code optim for space effici 	3080	8.020445908098628
+17	2	code optim for space effici 	2701	7.964293112095154
+18	2	code optim for space effici 	3005	7.913631252582458
+19	2	code optim for space effici 	2586	7.798817522438143
+20	2	code optim for space effici 	2537	7.74715882958481
+21	2	code optim for space effici 	2801	7.74465474394273
+22	2	code optim for space effici 	3129	7.728488461081737
+23	2	code optim for space effici 	3113	7.654359179735167
+24	2	code optim for space effici 	3033	7.564443749221637
+25	2	code optim for space effici 	1901	7.499297432513806
+26	2	code optim for space effici 	2834	7.473671835775222
+27	2	code optim for space effici 	1223	7.437298697224049
+28	2	code optim for space effici 	2944	7.324927160981361
+29	2	code optim for space effici 	2598	7.2893720786161476
+30	2	code optim for space effici 	405	7.236359422388219
+31	2	code optim for space effici 	2648	7.195413135614097
+32	2	code optim for space effici 	3099	7.165324696110797
+33	2	code optim for space effici 	2929	7.131035343074324
+34	2	code optim for space effici 	2904	6.793028344835245
+35	2	code optim for space effici 	1973	6.767716616165025
+36	2	code optim for space effici 	3054	6.756585226672906
+37	2	code optim for space effici 	3171	6.667410212456523
+38	2	code optim for space effici 	2816	6.619172454424042
+39	2	code optim for space effici 	3106	6.612924627968258
+40	2	code optim for space effici 	2819	6.5553494665797825
+41	2	code optim for space effici 	1195	6.506615219189474
+42	2	code optim for space effici 	2885	6.392387880017633
+43	2	code optim for space effici 	3103	6.34461334787566
+44	2	code optim for space effici 	1542	6.320098801003793
+45	2	code optim for space effici 	2253	6.218643270273963
+46	2	code optim for space effici 	2623	6.173530983924731
+47	2	code optim for space effici 	2490	6.074379397567868
+48	2	code optim for space effici 	2855	6.024803045182076
+49	2	code optim for space effici 	124	5.896806087292264
+50	2	code optim for space effici 	1235	5.891655176446333
+1	3	parallel algorithm 	2714	6.518863892820776
+2	3	parallel algorithm 	2664	6.361193328239626
+3	3	parallel algorithm 	2973	6.358943029902417
+4	3	parallel algorithm 	2785	6.098958382932746
+5	3	parallel algorithm 	2685	5.992669482780828
+6	3	parallel algorithm 	2433	5.966053299737788
+7	3	parallel algorithm 	950	5.924532967885141
+8	3	parallel algorithm 	1262	5.837367235321383
+9	3	parallel algorithm 	2266	5.826888637979669
+10	3	parallel algorithm 	2700	5.7427868185227124
+11	3	parallel algorithm 	2896	5.734134995939526
+12	3	parallel algorithm 	1158	5.690684095895541
+13	3	parallel algorithm 	3075	5.6682837903755425
+14	3	parallel algorithm 	1828	5.664123880858041
+15	3	parallel algorithm 	3156	5.620738691215249
+16	3	parallel algorithm 	1601	5.528016712254266
+17	3	parallel algorithm 	1811	5.4988934740730055
+18	3	parallel algorithm 	141	5.466124803833196
+19	3	parallel algorithm 	392	5.371452115100625
+20	3	parallel algorithm 	1302	5.371452115100625
+21	3	parallel algorithm 	1613	5.31427745743464
+22	3	parallel algorithm 	2182	5.191615674333436
+23	3	parallel algorithm 	2660	5.148522487448754
+24	3	parallel algorithm 	2557	5.102498609112697
+25	3	parallel algorithm 	1367	5.064447245630476
+26	3	parallel algorithm 	1795	4.983073777062326
+27	3	parallel algorithm 	1468	4.9789906013884995
+28	3	parallel algorithm 	2401	4.948010109371624
+29	3	parallel algorithm 	2895	4.922871301137722
+30	3	parallel algorithm 	2952	4.827927446854279
+31	3	parallel algorithm 	2342	4.826592300376235
+32	3	parallel algorithm 	2851	4.709326108197897
+33	3	parallel algorithm 	2865	4.704774915593224
+34	3	parallel algorithm 	3059	4.611498232649141
+35	3	parallel algorithm 	3073	4.544178839441205
+36	3	parallel algorithm 	2195	4.506452008798133
+37	3	parallel algorithm 	46	4.46244687332227
+38	3	parallel algorithm 	2289	4.453733646853855
+39	3	parallel algorithm 	2570	4.4205671456462055
+40	3	parallel algorithm 	2080	4.383603036510818
+41	3	parallel algorithm 	2175	4.3526139710392995
+42	3	parallel algorithm 	1846	4.272659883577466
+43	3	parallel algorithm 	1569	4.234630366138442
+44	3	parallel algorithm 	1747	4.139588183158981
+45	3	parallel algorithm 	2838	4.06543980490309
+46	3	parallel algorithm 	3044	4.0414876785081
+47	3	parallel algorithm 	3194	3.8412581149713563
+48	3	parallel algorithm 	2740	3.782180793577914
+49	3	parallel algorithm 	2311	3.6816561550730333
+50	3	parallel algorithm 	2727	3.659932158547652
+1	4	distribut comput structur and algorithm 	2914	7.240502702493499
+2	4	distribut comput structur and algorithm 	2032	7.2056729418805725
+3	4	distribut comput structur and algorithm 	2454	7.092896491525964
+4	4	distribut comput structur and algorithm 	2276	7.0268484208240345
+5	4	distribut comput structur and algorithm 	1951	6.57461295271278
+6	4	distribut comput structur and algorithm 	2549	6.517926853685685
+7	4	distribut comput structur and algorithm 	1778	6.502653649454814
+8	4	distribut comput structur and algorithm 	2406	6.492416392834194
+9	4	distribut comput structur and algorithm 	1941	6.450894024416369
+10	4	distribut comput structur and algorithm 	1733	6.425349504053823
+11	4	distribut comput structur and algorithm 	2849	6.369097860457199
+12	4	distribut comput structur and algorithm 	3148	6.351641045889227
+13	4	distribut comput structur and algorithm 	1944	6.35001809741558
+14	4	distribut comput structur and algorithm 	2090	6.337692412094644
+15	4	distribut comput structur and algorithm 	1894	6.300851229314088
+16	4	distribut comput structur and algorithm 	2949	6.298960724515856
+17	4	distribut comput structur and algorithm 	1716	6.276575057974108
+18	4	distribut comput structur and algorithm 	3135	6.136713755734363
+19	4	distribut comput structur and algorithm 	3082	6.132092941361395
+20	4	distribut comput structur and algorithm 	2926	6.130191645762083
+21	4	distribut comput structur and algorithm 	2212	6.0696376442654545
+22	4	distribut comput structur and algorithm 	2427	6.062482123096561
+23	4	distribut comput structur and algorithm 	3137	6.0295401801833375
+24	4	distribut comput structur and algorithm 	1987	5.935308841629312
+25	4	distribut comput structur and algorithm 	2123	5.935308841629312
+26	4	distribut comput structur and algorithm 	2649	5.930953947675586
+27	4	distribut comput structur and algorithm 	2565	5.9043655751577395
+28	4	distribut comput structur and algorithm 	2098	5.896386542070502
+29	4	distribut comput structur and algorithm 	1714	5.873751104506145
+30	4	distribut comput structur and algorithm 	2261	5.834140831426841
+31	4	distribut comput structur and algorithm 	2250	5.8136205715986025
+32	4	distribut comput structur and algorithm 	241	5.79577877666881
+33	4	distribut comput structur and algorithm 	2259	5.783827191585886
+34	4	distribut comput structur and algorithm 	2057	5.725426298652805
+35	4	distribut comput structur and algorithm 	3084	5.640873463764689
+36	4	distribut comput structur and algorithm 	2349	5.640050163716855
+37	4	distribut comput structur and algorithm 	2216	5.5808206832800895
+38	4	distribut comput structur and algorithm 	2481	5.448919409557634
+39	4	distribut comput structur and algorithm 	1663	5.445986800132247
+40	4	distribut comput structur and algorithm 	711	5.421509607384213
+41	4	distribut comput structur and algorithm 	1081	5.373307341165484
+42	4	distribut comput structur and algorithm 	1604	5.370525951441688
+43	4	distribut comput structur and algorithm 	2686	5.2859281047275575
+44	4	distribut comput structur and algorithm 	2578	5.212579310076342
+45	4	distribut comput structur and algorithm 	1157	5.188775178989742
+46	4	distribut comput structur and algorithm 	1583	5.188775178989742
+47	4	distribut comput structur and algorithm 	1918	5.188775178989742
+48	4	distribut comput structur and algorithm 	2816	5.176107641468732
+49	4	distribut comput structur and algorithm 	3043	5.066566889433932
+50	4	distribut comput structur and algorithm 	1584	5.058484871992399
+1	5	appli stochast process 	1696	8.907097565635556
+2	5	appli stochast process 	268	8.080466472810679
+3	5	appli stochast process 	1410	6.322933846379989
+4	5	appli stochast process 	20	5.602533157110598
+5	5	appli stochast process 	1233	5.575412193487013
+6	5	appli stochast process 	2882	5.521332080468029
+7	5	appli stochast process 	2535	5.458948934772701
+8	5	appli stochast process 	3020	5.440120142800649
+9	5	appli stochast process 	1540	5.287375161305749
+10	5	appli stochast process 	2065	5.22693098417269
+11	5	appli stochast process 	1216	5.140353554078683
+12	5	appli stochast process 	3120	5.0398429714524235
+13	5	appli stochast process 	1194	4.912400182867082
+14	5	appli stochast process 	1359	4.7714598335877785
+15	5	appli stochast process 	1892	4.70163713029692
+16	5	appli stochast process 	1468	4.603619004677449
+17	5	appli stochast process 	293	4.582975792502448
+18	5	appli stochast process 	927	4.5068934918457675
+19	5	appli stochast process 	2523	4.485269110089133
+20	5	appli stochast process 	3059	4.440356667153779
+21	5	appli stochast process 	2844	4.397391390261582
+22	5	appli stochast process 	1435	4.310376325460446
+23	5	appli stochast process 	2742	4.2321743948109205
+24	5	appli stochast process 	111	4.209143259203434
+25	5	appli stochast process 	3030	4.170745857434825
+26	5	appli stochast process 	2396	4.145228938403629
+27	5	appli stochast process 	1180	4.012967875526138
+28	5	appli stochast process 	942	4.012967875526138
+29	5	appli stochast process 	3153	3.999670709222957
+30	5	appli stochast process 	1925	3.8843907724782265
+31	5	appli stochast process 	1637	3.7805643712802697
+32	5	appli stochast process 	1438	3.758209847445139
+33	5	appli stochast process 	1441	3.7318058460068917
+34	5	appli stochast process 	78	3.730705112969435
+35	5	appli stochast process 	2000	3.656413989079216
+36	5	appli stochast process 	2767	3.541467207248917
+37	5	appli stochast process 	1563	3.5378216876875044
+38	5	appli stochast process 	3165	3.514409213380583
+39	5	appli stochast process 	1235	3.5015969194404084
+40	5	appli stochast process 	3013	3.499915260078761
+41	5	appli stochast process 	2137	3.4855403662537183
+42	5	appli stochast process 	2453	3.4855403662537183
+43	5	appli stochast process 	1051	3.4017110757085263
+44	5	appli stochast process 	2705	3.3620830386370515
+45	5	appli stochast process 	2727	3.322148327757702
+46	5	appli stochast process 	1028	3.301212863775327
+47	5	appli stochast process 	2080	3.295222079664888
+48	5	appli stochast process 	3043	3.290787679041539
+49	5	appli stochast process 	2999	3.2819545860902792
+50	5	appli stochast process 	2409	3.2812628439099636
+1	6	perform evalu and model of comput system 	2318	17.17645829918767
+2	6	perform evalu and model of comput system 	3048	13.178811529058137
+3	6	perform evalu and model of comput system 	3089	11.902869959179508
+4	6	perform evalu and model of comput system 	3119	11.68825232680813
+5	6	perform evalu and model of comput system 	3070	11.47376060676615
+6	6	perform evalu and model of comput system 	2984	10.951024256174534
+7	6	perform evalu and model of comput system 	2542	10.860451207881512
+8	6	perform evalu and model of comput system 	2319	10.810350005954447
+9	6	perform evalu and model of comput system 	2741	10.791543251952342
+10	6	perform evalu and model of comput system 	2452	10.40356353769885
+11	6	perform evalu and model of comput system 	2894	10.2012330477584
+12	6	perform evalu and model of comput system 	2882	9.82850264138461
+13	6	perform evalu and model of comput system 	2862	9.666461053086987
+14	6	perform evalu and model of comput system 	3136	9.624431586400242
+15	6	perform evalu and model of comput system 	1653	9.538256794921708
+16	6	perform evalu and model of comput system 	1938	9.32573916835368
+17	6	perform evalu and model of comput system 	2988	9.135682639589264
+18	6	perform evalu and model of comput system 	1518	9.127907279833849
+19	6	perform evalu and model of comput system 	2571	9.09642081486251
+20	6	perform evalu and model of comput system 	2859	8.200793072029182
+21	6	perform evalu and model of comput system 	2535	8.160362804994946
+22	6	perform evalu and model of comput system 	1827	8.149119395591335
+23	6	perform evalu and model of comput system 	2522	8.096279802965853
+24	6	perform evalu and model of comput system 	2669	7.99102269863991
+25	6	perform evalu and model of comput system 	1719	7.806337010127013
+26	6	perform evalu and model of comput system 	2245	7.571923540500162
+27	6	perform evalu and model of comput system 	2711	7.561350919127499
+28	6	perform evalu and model of comput system 	1344	7.557169307478512
+29	6	perform evalu and model of comput system 	2812	7.513235675432844
+30	6	perform evalu and model of comput system 	1680	7.480856641679229
+31	6	perform evalu and model of comput system 	2951	7.431450818537025
+32	6	perform evalu and model of comput system 	3072	7.429663951517476
+33	6	perform evalu and model of comput system 	2798	7.419575923037484
+34	6	perform evalu and model of comput system 	2681	7.3893058971753405
+35	6	perform evalu and model of comput system 	1698	7.313033024150254
+36	6	perform evalu and model of comput system 	2892	7.2778313782972806
+37	6	perform evalu and model of comput system 	3059	7.082344038972522
+38	6	perform evalu and model of comput system 	1199	7.005913624939534
+39	6	perform evalu and model of comput system 	2344	6.979789740843996
+40	6	perform evalu and model of comput system 	1908	6.9330131985008006
+41	6	perform evalu and model of comput system 	1032	6.800003459822355
+42	6	perform evalu and model of comput system 	1030	6.705001204877497
+43	6	perform evalu and model of comput system 	1526	6.675491305911576
+44	6	perform evalu and model of comput system 	1951	6.657924829728443
+45	6	perform evalu and model of comput system 	2990	6.645571089915606
+46	6	perform evalu and model of comput system 	1542	6.549889524618033
+47	6	perform evalu and model of comput system 	2268	6.5166143132260075
+48	6	perform evalu and model of comput system 	1931	6.507477539197979
+49	6	perform evalu and model of comput system 	1533	6.503660458814247
+50	6	perform evalu and model of comput system 	2375	6.478352391475807
+1	7	parallel processor in inform retriev 	1811	12.130483878110482
+2	7	parallel processor in inform retriev 	2714	10.633192881742204
+3	7	parallel processor in inform retriev 	2973	10.600998921083834
+4	7	parallel processor in inform retriev 	1613	10.473800410594995
+5	7	parallel processor in inform retriev 	2664	10.424451367980971
+6	7	parallel processor in inform retriev 	3075	10.406960611833515
+7	7	parallel processor in inform retriev 	3156	10.327335627144674
+8	7	parallel processor in inform retriev 	2967	10.072736407340551
+9	7	parallel processor in inform retriev 	2278	9.222986332028825
+10	7	parallel processor in inform retriev 	2114	8.956731048254756
+11	7	parallel processor in inform retriev 	2288	8.951575572387116
+12	7	parallel processor in inform retriev 	891	8.789978315007575
+13	7	parallel processor in inform retriev 	1699	8.780837712653687
+14	7	parallel processor in inform retriev 	3134	8.700494409988927
+15	7	parallel processor in inform retriev 	1457	8.676488452463705
+16	7	parallel processor in inform retriev 	2838	8.671522371733465
+17	7	parallel processor in inform retriev 	1927	8.477390684621199
+18	7	parallel processor in inform retriev 	2723	8.429063123977222
+19	7	parallel processor in inform retriev 	634	8.265621801609523
+20	7	parallel processor in inform retriev 	1681	8.160855057727911
+21	7	parallel processor in inform retriev 	1830	8.147140003497638
+22	7	parallel processor in inform retriev 	2175	8.145451477115312
+23	7	parallel processor in inform retriev 	1032	7.973516505382296
+24	7	parallel processor in inform retriev 	275	7.744919259225852
+25	7	parallel processor in inform retriev 	651	7.744919259225852
+26	7	parallel processor in inform retriev 	2497	7.741980494354353
+27	7	parallel processor in inform retriev 	657	7.67899055643926
+28	7	parallel processor in inform retriev 	2070	7.67899055643926
+29	7	parallel processor in inform retriev 	2516	7.636431048811133
+30	7	parallel processor in inform retriev 	2532	7.487771370028567
+31	7	parallel processor in inform retriev 	2990	7.431911213807117
+32	7	parallel processor in inform retriev 	2530	7.416016792813064
+33	7	parallel processor in inform retriev 	2965	7.416016792813064
+34	7	parallel processor in inform retriev 	2976	7.416016792813064
+35	7	parallel processor in inform retriev 	1935	7.3855219729129455
+36	7	parallel processor in inform retriev 	239	7.36549625320625
+37	7	parallel processor in inform retriev 	1831	7.36549625320625
+38	7	parallel processor in inform retriev 	3168	7.357840166693748
+39	7	parallel processor in inform retriev 	3012	7.340009829055052
+40	7	parallel processor in inform retriev 	2140	7.325119174414087
+41	7	parallel processor in inform retriev 	2631	7.246828788120963
+42	7	parallel processor in inform retriev 	3169	7.244182894450563
+43	7	parallel processor in inform retriev 	1601	7.225124488207684
+44	7	parallel processor in inform retriev 	2570	7.20580320996261
+45	7	parallel processor in inform retriev 	292	7.189392360475757
+46	7	parallel processor in inform retriev 	2412	7.02151287117019
+47	7	parallel processor in inform retriev 	2552	7.02151287117019
+48	7	parallel processor in inform retriev 	2307	6.990619388814448
+49	7	parallel processor in inform retriev 	2882	6.981044994275558
+50	7	parallel processor in inform retriev 	1680	6.893754381668112
