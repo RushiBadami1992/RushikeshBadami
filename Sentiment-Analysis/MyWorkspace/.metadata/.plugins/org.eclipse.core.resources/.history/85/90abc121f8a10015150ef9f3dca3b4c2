@@ -1,0 +1,114 @@
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.LineIterator;
+
+/**
+ * 
+ */
+
+/**
+ * @author Ajay Kauthale
+ *
+ */
+public class HW6 {
+	
+	static int POS_COUNT;
+	static int NEG_COUNT;
+	static HashMap<String, Integer> universalMap = new HashMap<String, Integer>();
+
+	/**
+	 * @param args
+	 * @throws IOException 
+	 */
+		public static void main(String[] args) throws IOException {
+		HashMap<String, Integer> positiveSentiments=new HashMap<String, Integer>();
+		HashMap<String, Integer> negativeSentiments=new HashMap<String, Integer>();
+		HashMap<String, Integer>vocubularysize=new HashMap<String, Integer>();
+		CalculateSentiments sentiments=new CalculateSentiments();
+		positiveSentiments = sentiments.getSentiment(positiveSentiments,"resources\\train\\pos");
+		//System.out.println(positiveSentiments.size());
+		negativeSentiments = sentiments.getSentiment(negativeSentiments,"resources\\train\\neg");;
+		
+		HashMap<String, Double> wordPosProbMap = new HashMap<String, Double>();
+		HashMap<String, Double> wordNegProbMap = new HashMap<String, Double>();
+		
+		
+		//Iterator<String> it = positiveSentiments.keySet().iterator();
+		//int count =0;
+		vocubularysize=sentiments.calculateVocubularySize(vocubularysize, positiveSentiments);
+		vocubularysize=sentiments.calculateVocubularySize(vocubularysize, negativeSentiments);
+		positiveSentiments=sentiments.removeTerms(positiveSentiments);
+		negativeSentiments=sentiments.removeTerms(negativeSentiments);
+		NEG_COUNT=negativeSentiments.size();
+		POS_COUNT=positiveSentiments.size();
+		wordPosProbMap=sentiments.calculateProbability(positiveSentiments, POS_COUNT, vocubularysize);
+		wordNegProbMap=sentiments.calculateProbability(negativeSentiments, NEG_COUNT, vocubularysize);
+		sentiments.writeModel(vocubularysize, wordPosProbMap, wordNegProbMap);
+		System.out.println(vocubularysize.size());
+		System.out.println(positiveSentiments.size());
+		System.out.println(negativeSentiments.size());
+		System.out.println(wordPosProbMap.size());
+		System.out.println(wordNegProbMap.size());
+	
+	 Iterator<String> posIt = positiveSentiments.keySet().iterator();
+	
+	 classify("resources\\test", wordPosProbMap, wordNegProbMap);
+	}
+
+	public static void classify(String inputDir, Map<String, Double> wordPosProbMap,
+			Map<String, Double> wordNegProbMap) {
+		Map<String, Integer> docMap = new LinkedHashMap<String, Integer>();
+		Double priorProbability = 0.5;
+		
+		File dir = new File(inputDir);
+		if (dir.isDirectory()) {
+			for (File f : dir.listFiles()) {
+				Double posScore = 0.0;
+				Double negScore = 0.0;
+					try {
+						  BufferedReader inputStream = null;
+			                inputStream = new BufferedReader(new FileReader(f));
+			        String line;
+	
+			        while ((line = inputStream.readLine()) != null) {
+						String tokens[]=line.split(" ");
+				        for(int i=0;i<tokens.length;i++)
+				        {
+				        	if (wordPosProbMap.containsKey(tokens[i])) {
+				        		posScore += Math.log(wordPosProbMap.get(tokens[i]));
+				        	}
+				        	if (wordNegProbMap.containsKey(tokens[i])) {
+				        		negScore += Math.log(wordNegProbMap.get(tokens[i]));
+				        	}
+				        }
+					}
+			        
+			        posScore += Math.log(0.5);
+			        negScore += Math.log(0.5);
+					
+					if (posScore.compareTo(negScore) < 0) {
+						System.out.println("File:" + f.getName() + " Positive");
+					} else {
+						System.out.println("File:" + f.getName() + " Negative");
+					}
+					
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+
+	}
+}
+
+

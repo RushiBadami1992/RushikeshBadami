@@ -1,0 +1,88 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+
+/**
+ * 
+ */
+
+/**
+ * @author AjayBaban
+ *
+ */
+public class nbtest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		HashMap<String, Probability> prob = new LinkedHashMap<String, Probability>();
+		try {
+			prob = getdata(prob, args[0]);
+			classifyDocument(args[1], prob, args[2]);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static HashMap<String, Probability> getdata(HashMap<String, Probability> prob, String path)
+			throws IOException {
+		BufferedReader inputStream = null;
+		inputStream = new BufferedReader(new FileReader(path));
+		String line;
+		Probability probability = null;
+		while ((line = inputStream.readLine()) != null) {
+			String tokens[] = line.split(" ");
+			prob.put(tokens[0], new Probability(Double.parseDouble(tokens[1]), Double.parseDouble(tokens[2])));
+		}
+
+		return prob;
+
+	}
+
+	public static void classifyDocument(String inputDir, HashMap<String, Probability> prob, String predicitionFile) throws IOException {
+		BufferedWriter writer=new BufferedWriter(new FileWriter(predicitionFile));
+		File dir = new File(inputDir);
+		File[] files = dir.listFiles();
+		Double priorProbability = 0.5;
+		for (File f : files) {
+			if (f.isFile()) {
+				BufferedReader inputStream = null;
+				inputStream = new BufferedReader(new FileReader(f));
+				String line;
+				double pos = 0.0;
+				double neg = 0.0;
+				while ((line = inputStream.readLine()) != null) {
+					String tokens[] = line.split(" ");
+					for (int i = 0; i < tokens.length; i++) {
+						if (prob.containsKey(tokens[i])) {
+							Probability proba = prob.get(tokens[i]);
+							pos = pos + proba.getPos();
+							neg = neg + proba.getNeg();
+						}
+					}
+				}
+				pos = pos + Math.log(priorProbability);
+				neg = neg + Math.log(priorProbability);
+				if (pos > neg) {
+					writer.write("File:" + f.getName() + " " + pos + " " + neg + " Positive\n");
+					System.out.println("File:" + f.getName() + " Positive");
+				} else {
+					writer.write("File:" + f.getName() + " " + pos + " " + neg + " Negative\n");
+					System.out.println("File:" + f.getName() + " Negative");
+				}
+			}
+		}
+		writer.close();
+	}
+	
+	public static void getLogRatio(Probability prob) {
+		Double posToNegRation = 0.0;
+		Double negToPosRation = 0.0;
+	}
+}

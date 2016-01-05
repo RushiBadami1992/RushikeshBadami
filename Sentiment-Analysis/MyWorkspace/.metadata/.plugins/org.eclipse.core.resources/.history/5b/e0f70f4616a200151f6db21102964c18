@@ -1,0 +1,133 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * 
+ * @author Ajay Kauthale
+ *
+ */
+public class nbtrain {
+	static int POS_COUNT;
+	static int NEG_COUNT;
+	
+	/**
+	 * @param args
+	 * @throws IOException 
+	 */
+		public static void main(String[] args) throws IOException {
+		HashMap<String, Integer> positiveSentiments=new HashMap<String, Integer>();
+		HashMap<String, Integer> negativeSentiments=new HashMap<String, Integer>();
+		HashMap<String, Integer>vocubularysize=new HashMap<String, Integer>();
+		CalculateSentiments sentiments=new CalculateSentiments();
+		positiveSentiments = sentiments.getSentiment(positiveSentiments, args[0]+"\\pos");
+		negativeSentiments = sentiments.getSentiment(negativeSentiments, args[0]+"\\neg");
+		
+		HashMap<String, Double> wordPosProbMap = new HashMap<String, Double>();
+		HashMap<String, Double> wordNegProbMap = new HashMap<String, Double>();
+		
+		
+		vocubularysize=sentiments.calculateVocubularySize(vocubularysize, positiveSentiments);
+		vocubularysize=sentiments.calculateVocubularySize(vocubularysize, negativeSentiments);
+		vocubularysize.remove("");
+		positiveSentiments=sentiments.removeTerms(positiveSentiments, vocubularysize);
+		negativeSentiments=sentiments.removeTerms(negativeSentiments, vocubularysize);
+		vocubularysize=sentiments.removeTerms(vocubularysize, vocubularysize);
+		
+		Iterator<String> posIt = positiveSentiments.keySet().iterator();
+		
+		while (posIt.hasNext()) {
+			POS_COUNT += positiveSentiments.get(posIt.next());
+		}
+		
+		Iterator<String> negIt = negativeSentiments.keySet().iterator();
+		
+		while (negIt.hasNext()) {
+			NEG_COUNT += negativeSentiments.get(negIt.next());
+		}
+		wordPosProbMap=sentiments.calculateProbability(positiveSentiments, POS_COUNT, vocubularysize);
+		wordNegProbMap=sentiments.calculateProbability(negativeSentiments, NEG_COUNT, vocubularysize);
+
+		sentiments.writeModel(vocubularysize, wordPosProbMap, wordNegProbMap, args[1]);
+		System.out.println(vocubularysize.size());
+		System.out.println(positiveSentiments.size());
+		System.out.println(negativeSentiments.size());
+		System.out.println(wordPosProbMap.size());
+		System.out.println(wordNegProbMap.size());
+		
+		//LinkedHashMap<String, Double> negProbMap = sortMap(wordNegProbMap, new HW6ComparatorAsc());
+		//LinkedHashMap<String, Double> posProbMap = sortMap(wordPosProbMap, new HW6ComparatorDesc());
+		
+		/*Iterator<String> posProbIt = posProbMap.keySet().iterator();
+		Iterator<String> negProbIt = negProbMap.keySet().iterator();
+		int cnt = 1;
+		while (posProbIt.hasNext()) {
+			if (cnt>20) {
+				break;
+			}
+			String term = posProbIt.next();
+			Double posVal = negProbMap.get(term);
+			term = negProbIt.next();
+			Double negVal = negProbMap.get(term);
+			System.out.println(term + " " + cnt + ":" + posVal/negVal);
+			cnt++;
+		}*/
+		LinkedHashMap<String, Double> negToPosProbMap = new LinkedHashMap<String, Double>();
+		LinkedHashMap<String, Double> posToNegProbMap = new LinkedHashMap<String, Double>();
+		
+		Iterator<String> finalIt = vocubularysize.keySet().iterator();
+		while (finalIt.hasNext()) {
+			String term = finalIt.next();
+			Double pos = wordPosProbMap.get(term);
+			Double neg = wordNegProbMap.get(term);
+			if (neg != 0) {
+				Double posToNeg = Math.log(pos/neg);
+				posToNegProbMap.put(term, posToNeg);
+			}
+			if (pos != 0) {
+				Double negToPos = Math.log(neg/pos);
+				negToPosProbMap.put(term, negToPos);
+			}
+		}
+		
+		LinkedHashMap<String, Double> sortedPosToNegProbMap = sortMap(posToNegProbMap, new HW6ComparatorDesc());
+		LinkedHashMap<String, Double> sortedNegToPosProbMap = sortMap(negToPosProbMap, new HW6ComparatorDesc());
+		
+		BufferedWriter writer=new BufferedWriter(new FileWriter("resources\\results\\top20ratio.txt"));
+		writer.write("----------------------------------Positive To Negative------------------------------------\n");
+		finalIt = sortedPosToNegProbMap.keySet().iterator();
+		while (finalIt.hasNext()) {
+			String term = finalIt.next();
+			writer.write(term + "\n");
+		}
+		
+		writer.write("Negative To Positive\n");
+		finalIt = sortedNegToPosProbMap.keySet().iterator();
+		while (finalIt.hasNext()) {
+			String term = finalIt.next();
+			writer.write(term + "\n");
+		}
+	} 
+
+	public static LinkedHashMap<String, Double> sortMap(HashMap<String, Double> probMap, Comparator<Map.Entry<String, Double>> c) {
+		// sort the terms by frequency
+		List<Map.Entry<String, Double>> entries = new LinkedList<Map.Entry<String, Double>>(probMap.entrySet());
+		Collections.sort(entries, c);
+
+		LinkedHashMap<String, Double> sortedMap = new LinkedHashMap<String, Double>();
+		// add all entries into sorted linked hashmap
+		for (Map.Entry<String, Double> entry : entries) {
+			sortedMap.put(entry.getKey(), entry.getValue());
+		}
+		
+		return sortedMap;
+	}
+}

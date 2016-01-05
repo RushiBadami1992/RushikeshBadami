@@ -1,0 +1,168 @@
+package effectiveness;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class CalculateRelevanceJudgement {
+
+	public void ReadData(HashMap<Integer,Integer> relevantDocuments) throws IOException
+	{
+		BufferedReader reader=new BufferedReader(new FileReader("BM25.txt"));
+		BufferedWriter writer=new BufferedWriter(new FileWriter("output.csv"));
+		String line;
+		ArrayList<String> Map20=new ArrayList<String>();
+		ArrayList<Integer>query_id=new ArrayList<Integer>();
+		int matchcount=0;
+
+		int k=0;
+		int relevantDocument=relevantDocuments.size();
+		int rank=1;
+		double map=0.0;
+		double totalcount=0.0;
+		double final_map=0.0;
+		int map_counter=0;
+		k=0;		
+		//Perform File Operations
+		FileOperations operations=new FileOperations();
+		int relevance =0;
+		int irelevance=0;
+		double dcg=0;
+		double idcg=0;
+		int numrelDocument=0;
+		int countreldocument=1;
+		while ((line=reader.readLine())!= null)
+		{
+			String tokens[]=line.split(" ");
+			Integer query=Integer.parseInt(tokens[0]);
+			relevantDocuments=operations.getRelevantDocuments(relevantDocuments, query);
+			numrelDocument=relevantDocuments.size();
+		//	System.out.println("n:"+numrelDocument);
+			 
+			  
+			  String documentId[]=tokens[2].split("-");
+			  //System.out.println(tokens[3]);
+			  String score=tokens[3];
+			  if(!(query_id.contains(query)))
+			  {
+				  query_id.add(query);
+			  }
+			
+			
+		 //System.out.println(relevantDocuments.size());
+		  if(relevantDocuments.containsKey(Integer.parseInt(documentId[1])))
+		  {
+			  matchcount++;
+			  double prec=(double)matchcount/(double)rank;
+			  totalcount=totalcount+prec;
+			 // System.out.println("total_count"+totalcount);
+			  relevance=1;
+			  map_counter++;
+			  if(rank==1)
+			  {
+			  dcg=relevance;	  
+			  }
+			  else
+			  {
+			  double log=(double)Math.log(rank)/(double)Math.log(2);
+			  dcg=dcg+(relevance/(double) log);
+			  
+			  }
+			//  System.out.println("dcg:"+dcg);
+		  }
+		  else
+		  {
+			  relevance=0;
+			  if(rank==1)
+			  {
+			  dcg=relevance;	  
+			  }
+			  else
+			  {
+			  double log=(double)Math.log(rank)/(double)Math.log(2);
+			  dcg=dcg+((double)relevance/(double) log);
+			 
+			  }
+			 // System.out.println("dcg:"+dcg);
+		  }
+		  if(countreldocument<=numrelDocument)
+		  {
+			  
+			  irelevance=1;
+			  if(rank==1)
+			  {
+			  idcg=irelevance;	  
+			  }
+			  else
+			  {
+			  double log=(double)Math.log(rank)/(double)Math.log(2);
+			  idcg=idcg+(irelevance/(double)log);
+			  
+			  }
+			 // System.out.println("idcg:"+idcg);
+		  }
+		  else
+		  {
+			  irelevance=0;
+			  if(rank==1)
+			  {
+			  idcg=irelevance;	  
+			  }
+			  else
+			  {	  
+			  double log=(double)Math.log(rank)/(double)Math.log(2);
+			  idcg=idcg+(irelevance/(double)log);
+			  
+			  }
+			 // System.out.println("idcg:"+idcg);
+		  }
+		 //Use to calculate Evaluation values.
+		   double ndcg=dcg/idcg;
+		  	double prec=(double)matchcount/(double)rank;
+			double recall=(double)matchcount/(double)relevantDocuments.size();
+			//Write Evaluation Value
+			writer.write(rank+","+documentId[1]+","+","+score+","+relevance+","+prec+","+recall+","+ndcg+"\n");
+			
+			if(rank==20)
+			{
+			 Map20.add(Double.toString(prec));
+			}
+			rank++;
+			countreldocument++;
+			if(rank > 100)
+			  {
+			
+				k++;
+			  map=+totalcount;
+			
+			  final_map=final_map+((double)map/(double)relevantDocuments.size());
+			
+			  totalcount=0.0;
+			  rank=1;
+			  matchcount=0;
+			  map_counter=0;
+			  relevantDocuments=new HashMap<Integer, Integer>();
+			  dcg=0.0;
+			  relevance=0;
+			  idcg=0.0;
+			  countreldocument=1;
+			  numrelDocument=0;
+			 }
+
+		}
+		String map20="";
+		for(int i=0;i<Map20.size();i++)
+		{
+			map20=map20+Map20.get(i)+",";
+		}
+		//Use to write evaluation value
+		writer.write("Map20:"+","+map20);
+		writer.write("\nmap:"+","+(double)final_map/query_id.size());
+		writer.close();
+	}
+}
